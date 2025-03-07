@@ -1,0 +1,3264 @@
+{
+  "vaultName": "cs-learning-vault",
+  "lastExport": 1741337396756,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "00-obsidian的使用/99-剪藏/assets/1693202648-2c82c6cd32145b16c7c40a93251d9bd9.jpg",
+    "00-obsidian的使用/99-剪藏/assets/1693202648-03cb495944da8593f31c4040f4cd0cd6.webp",
+    "00-obsidian的使用/99-剪藏/assets/1693202648-3db2a8665fd78dd620f3c6b9dc9e7c4a.webp",
+    "00-obsidian的使用/99-剪藏/assets/1693202648-5b554e7949b9594ffd54634819a2094f.svg",
+    "00-obsidian的使用/99-剪藏/assets/1693202648-5c9af4b889d1daeab7126739d54d56c3.webp",
+    "00-obsidian的使用/99-剪藏/assets/1693202648-5dee62d343aecdf1ee60fdd355bae8ae.webp",
+    "00-obsidian的使用/99-剪藏/assets/1693202648-7c6319fa9cc06131b427290bdfd0585b.webp",
+    "00-obsidian的使用/99-剪藏/assets/1693202648-8fdaf274ce941928555da4e0c07f552d.webp",
+    "00-obsidian的使用/99-剪藏/assets/1693202648-42e2be81430f29bb3391ee0d6e4b0e25.svg",
+    "00-obsidian的使用/99-剪藏/assets/1693202648-48c571b7bf1fa3314dc285089368d997.jpg",
+    "00-obsidian的使用/99-剪藏/assets/1693202648-59cf74acb1d311ea72777042af2da50f.svg",
+    "00-obsidian的使用/99-剪藏/assets/1693202648-71b0cf549326a503241ffef2951434ce.webp",
+    "00-obsidian的使用/99-剪藏/assets/1693202648-94b74c752102dc33469b08e8488e4801.jpg",
+    "00-obsidian的使用/99-剪藏/assets/1693202648-355ee94cbf9a1b0f483eeb9825ffd38b.svg",
+    "00-obsidian的使用/99-剪藏/assets/1693202648-698cd67ec2e791d9f452c754f21e4224.svg",
+    "00-obsidian的使用/99-剪藏/assets/1693202648-792eafe90d54c188dbaf659c8a60ea4f.svg",
+    "00-obsidian的使用/99-剪藏/assets/1693202648-1330c5963c2005b0998c8286ffd883d0.webp",
+    "00-obsidian的使用/99-剪藏/assets/1693202648-1652dd33a8941d175c05f3a2972ca7ed.webp",
+    "00-obsidian的使用/99-剪藏/assets/1693202648-1709af28b499b893d5f20bbd954f8e64.svg",
+    "00-obsidian的使用/99-剪藏/assets/1693202648-4388e7e5790e8e7416f6e53746e30b84.jpg",
+    "00-obsidian的使用/99-剪藏/assets/1693202648-4620da658c1724d391b35fb7777837eb.svg",
+    "00-obsidian的使用/99-剪藏/assets/1693202648-287059b5c3b3a7ae1f384c1eb0f7dfbb.jpg",
+    "00-obsidian的使用/99-剪藏/assets/1693202648-828558cb29d26ff2bb80f39827194674.webp",
+    "00-obsidian的使用/99-剪藏/assets/1693202648-b287d1087f759b3832086c37b84fba12.webp",
+    "00-obsidian的使用/99-剪藏/assets/1693202648-b4271d9a4f8f7a177ac36eb08d559f12.jpg",
+    "00-obsidian的使用/99-剪藏/assets/1693202648-b900399e566025f20795dbb807af0992.jpg",
+    "00-obsidian的使用/99-剪藏/assets/1693202648-c41857deeccda66281424c93dbafd3af.svg",
+    "00-obsidian的使用/99-剪藏/assets/1693202648-d33f41bea20cd7b85f5fbc5de77a3f16.webp",
+    "00-obsidian的使用/99-剪藏/assets/1693202648-d73b4078e3b5a1eebca0eba6ef9b5152.svg",
+    "00-obsidian的使用/99-剪藏/assets/1693202648-d753a1c173e8cbd338155a3c09ad2a81.jpg",
+    "00-obsidian的使用/99-剪藏/assets/1693202648-dc567be19ec6bac525abcc7ebe8a03d2.svg",
+    "00-obsidian的使用/99-剪藏/assets/1693202648-de58250495870a13bf4ea1484fb1997d.webp",
+    "00-obsidian的使用/99-剪藏/assets/1693202648-e1e6e95e7047cd8843141d79deb5f5b1.svg",
+    "00-obsidian的使用/99-剪藏/assets/1693202648-e2361ad1338d9cffd79b0529ecf9e4ee.webp",
+    "00-obsidian的使用/99-剪藏/assets/1693202648-f9355631221939305b119ee6a5d3ae8b.webp",
+    "00-obsidian的使用/99-剪藏/assets/1693209248-2c82c6cd32145b16c7c40a93251d9bd9.jpg",
+    "00-obsidian的使用/99-剪藏/assets/1693209248-03cb495944da8593f31c4040f4cd0cd6.webp",
+    "00-obsidian的使用/99-剪藏/assets/1693209248-3db2a8665fd78dd620f3c6b9dc9e7c4a.webp",
+    "00-obsidian的使用/99-剪藏/assets/1693209248-5b554e7949b9594ffd54634819a2094f.svg",
+    "00-obsidian的使用/99-剪藏/assets/1693209248-5c9af4b889d1daeab7126739d54d56c3.webp",
+    "00-obsidian的使用/99-剪藏/assets/1693209248-5dee62d343aecdf1ee60fdd355bae8ae.webp",
+    "00-obsidian的使用/99-剪藏/assets/1693209248-7c6319fa9cc06131b427290bdfd0585b.webp",
+    "00-obsidian的使用/99-剪藏/assets/1693209248-8fdaf274ce941928555da4e0c07f552d.webp",
+    "00-obsidian的使用/99-剪藏/assets/1693209248-42e2be81430f29bb3391ee0d6e4b0e25.svg",
+    "00-obsidian的使用/99-剪藏/assets/1693209248-48c571b7bf1fa3314dc285089368d997.jpg",
+    "00-obsidian的使用/99-剪藏/assets/1693209248-59cf74acb1d311ea72777042af2da50f.svg",
+    "00-obsidian的使用/99-剪藏/assets/1693209248-71b0cf549326a503241ffef2951434ce.webp",
+    "00-obsidian的使用/99-剪藏/assets/1693209248-94b74c752102dc33469b08e8488e4801.jpg",
+    "00-obsidian的使用/99-剪藏/assets/1693209248-355ee94cbf9a1b0f483eeb9825ffd38b.svg",
+    "00-obsidian的使用/99-剪藏/assets/1693209248-698cd67ec2e791d9f452c754f21e4224.svg",
+    "00-obsidian的使用/99-剪藏/assets/1693209248-792eafe90d54c188dbaf659c8a60ea4f.svg",
+    "00-obsidian的使用/99-剪藏/assets/1693209248-1330c5963c2005b0998c8286ffd883d0.webp",
+    "00-obsidian的使用/99-剪藏/assets/1693209248-1652dd33a8941d175c05f3a2972ca7ed.webp",
+    "00-obsidian的使用/99-剪藏/assets/1693209248-1709af28b499b893d5f20bbd954f8e64.svg",
+    "00-obsidian的使用/99-剪藏/assets/1693209248-4388e7e5790e8e7416f6e53746e30b84.jpg",
+    "00-obsidian的使用/99-剪藏/assets/1693209248-4620da658c1724d391b35fb7777837eb.svg",
+    "00-obsidian的使用/99-剪藏/assets/1693209248-287059b5c3b3a7ae1f384c1eb0f7dfbb.jpg",
+    "00-obsidian的使用/99-剪藏/assets/1693209248-828558cb29d26ff2bb80f39827194674.webp",
+    "00-obsidian的使用/99-剪藏/assets/1693209248-b287d1087f759b3832086c37b84fba12.webp",
+    "00-obsidian的使用/99-剪藏/assets/1693209248-b4271d9a4f8f7a177ac36eb08d559f12.jpg",
+    "00-obsidian的使用/99-剪藏/assets/1693209248-b900399e566025f20795dbb807af0992.jpg",
+    "00-obsidian的使用/99-剪藏/assets/1693209248-c41857deeccda66281424c93dbafd3af.svg",
+    "00-obsidian的使用/99-剪藏/assets/1693209248-d33f41bea20cd7b85f5fbc5de77a3f16.webp",
+    "00-obsidian的使用/99-剪藏/assets/1693209248-d73b4078e3b5a1eebca0eba6ef9b5152.svg",
+    "00-obsidian的使用/99-剪藏/assets/1693209248-d753a1c173e8cbd338155a3c09ad2a81.jpg",
+    "00-obsidian的使用/99-剪藏/assets/1693209248-dc567be19ec6bac525abcc7ebe8a03d2.svg",
+    "00-obsidian的使用/99-剪藏/assets/1693209248-de58250495870a13bf4ea1484fb1997d.webp",
+    "00-obsidian的使用/99-剪藏/assets/1693209248-e1e6e95e7047cd8843141d79deb5f5b1.svg",
+    "00-obsidian的使用/99-剪藏/assets/1693209248-e2361ad1338d9cffd79b0529ecf9e4ee.webp",
+    "00-obsidian的使用/99-剪藏/assets/1693209248-f9355631221939305b119ee6a5d3ae8b.webp",
+    "00-obsidian的使用/99-剪藏/assets/1693276155-1a74a2b11d8479978763b7a752632fe7.png",
+    "00-obsidian的使用/99-剪藏/assets/1693276155-2a2fde2cfe64f171c17457f81ba961a2.png",
+    "00-obsidian的使用/99-剪藏/assets/1693276155-04a80ca087ab7b0d7acecbb286c8b648.png",
+    "00-obsidian的使用/99-剪藏/assets/1693276155-5fbe338b9b6c27c27fc492901021a1f3.png",
+    "00-obsidian的使用/99-剪藏/assets/1693276155-8cd519ee1a13a0f3a72a5534649be5c8.png",
+    "00-obsidian的使用/99-剪藏/assets/1693276155-8cec1931215bd069184c636454e87254.png",
+    "00-obsidian的使用/99-剪藏/assets/1693276155-86a87229b87c4e5c56e8a0255b4f5a88.png",
+    "00-obsidian的使用/99-剪藏/assets/1693276155-a82e7c440cee838dbe2222fe64377d46.png",
+    "00-obsidian的使用/99-剪藏/assets/1693276155-d0f684390316f0f24f788072cf70ba2c.png",
+    "00-obsidian的使用/99-剪藏/assets/1693276155-d2638669d96b38b4e86f36a280958034.png",
+    "00-obsidian的使用/99-剪藏/01-插件的开发.md",
+    "00-obsidian的使用/99-剪藏/02-免费直接把笔记发布成网站Obsidian&GitHub&Netlify.md",
+    "00-obsidian的使用/assets/实测！房东送的五级能效空调，到底赚走多少电费？.mp4",
+    "00-obsidian的使用/assets/img-2024.06.04-04.03.07.jpg",
+    "00-obsidian的使用/assets/Pasted image 20221226135034.png",
+    "00-obsidian的使用/assets/Pasted image 20221228165318.png",
+    "00-obsidian的使用/assets/Pasted image 20240531120152.png",
+    "00-obsidian的使用/assets/Pasted image 20240603093855.png",
+    "00-obsidian的使用/assets/Pasted image 20240604174231.png",
+    "00-obsidian的使用/assets/Pasted image 20240604174419.png",
+    "00-obsidian的使用/assets/Pasted image 20240605095749.png",
+    "00-obsidian的使用/assets/Pasted image 20240605100158.png",
+    "00-obsidian的使用/assets/use wikiLink.png",
+    "00-obsidian的使用/01-markdown语法.md",
+    "00-obsidian的使用/02-基础设置.md",
+    "00-obsidian的使用/03-插件.md",
+    "00-obsidian的使用/04-test_obsidian_to_anki.md",
+    "00-obsidian的使用/Drawing 2023-08-25 16.30.44.excalidraw.md",
+    "00-obsidian的使用/obsidian的使用.canvas",
+    "01-数据结构与算法/01-hash/01-什么是hash.md",
+    "02-编程语言/01-JAVA/00-基础/00-基本类型.md",
+    "02-编程语言/01-JAVA/00-基础/01-xx.md",
+    "02-编程语言/01-JAVA/00-基础/Untitled mindmap.md",
+    "02-编程语言/01-JAVA/01-集合/assets/hashmap的put操作流程图.png",
+    "02-编程语言/01-JAVA/01-集合/01-map.md",
+    "02-编程语言/01-JAVA/01-集合/02-线程安全的集合.md",
+    "02-编程语言/01-JAVA/01-JDK版本特性/01-java8特性.md",
+    "02-编程语言/01-JAVA/02-多线程/assets/常见的等待队列.png",
+    "02-编程语言/01-JAVA/02-多线程/assets/动态化线程池功能架构.png",
+    "02-编程语言/01-JAVA/02-多线程/assets/动态化线程池整体设计.png",
+    "02-编程语言/01-JAVA/02-多线程/assets/线程池参数动态化.png",
+    "02-编程语言/01-JAVA/02-多线程/assets/线程池参数设置的合理性.png",
+    "02-编程语言/01-JAVA/02-多线程/assets/线程状态图.png",
+    "02-编程语言/01-JAVA/02-多线程/assets/线程状态图2.png",
+    "02-编程语言/01-JAVA/02-多线程/assets/JMM抽象示意图.png",
+    "02-编程语言/01-JAVA/02-多线程/assets/Pasted image 20230306161651.png",
+    "02-编程语言/01-JAVA/02-多线程/assets/Pasted image 20230306161707.png",
+    "02-编程语言/01-JAVA/02-多线程/assets/wait,notify原理图.png",
+    "02-编程语言/01-JAVA/02-多线程/02-多线程.md",
+    "02-编程语言/01-JAVA/02-多线程/03-ThreadLocal.md",
+    "02-编程语言/01-JAVA/02-多线程/04-线程池ThreadPoolExecutor.md",
+    "02-编程语言/01-JAVA/02-多线程/05-多线程jvm实现(volatile,synchronized).md",
+    "02-编程语言/01-JAVA/02-多线程/06-synchronized.md",
+    "02-编程语言/01-JAVA/02-多线程/07-线程-集合.md",
+    "02-编程语言/01-JAVA/03-spring/assets/循环依赖-AB.png",
+    "02-编程语言/01-JAVA/03-spring/assets/bean的生命周期.png",
+    "02-编程语言/01-JAVA/03-spring/assets/Pasted image 20230301153532.png",
+    "02-编程语言/01-JAVA/03-spring/assets/Pasted image 20230305192254.png",
+    "02-编程语言/01-JAVA/03-spring/assets/Pasted image 20230305192328.png",
+    "02-编程语言/01-JAVA/03-spring/assets/spring-事务.png",
+    "02-编程语言/01-JAVA/03-spring/assets/spring事务失效.png",
+    "02-编程语言/01-JAVA/03-spring/00-spring.md",
+    "02-编程语言/01-JAVA/03-spring/00-spring核心思想.md",
+    "02-编程语言/01-JAVA/03-spring/01-bean的生命周期.md",
+    "02-编程语言/01-JAVA/03-spring/02-DI.md",
+    "02-编程语言/01-JAVA/03-spring/03-IOC.md",
+    "02-编程语言/01-JAVA/03-spring/04-AOP.md",
+    "02-编程语言/01-JAVA/03-spring/05-事务.md",
+    "02-编程语言/01-JAVA/03-spring/06-springMVC.md",
+    "02-编程语言/01-JAVA/03-spring/098-常用注解.md",
+    "02-编程语言/01-JAVA/03-spring/99-其他.md",
+    "02-编程语言/01-JAVA/04-springboot/01-启动过程.md",
+    "02-编程语言/01-JAVA/04-springboot/02-循环依赖.md",
+    "02-编程语言/01-JAVA/04-springboot/未命名.md",
+    "02-编程语言/01-JAVA/05-mybatis/assets/mybatis符号区别.png",
+    "02-编程语言/01-JAVA/05-mybatis/未命名.md",
+    "02-编程语言/01-JAVA/06-jvm/assets/1722247001-3fc07ef2a81ffed4af26e7809392d4a6.png",
+    "02-编程语言/01-JAVA/06-jvm/assets/1722247001-69e34c9873f6a781650f36dd06391e3f.webp",
+    "02-编程语言/01-JAVA/06-jvm/assets/1722247001-79c4ca4f6214631164768b4112cd8609.png",
+    "02-编程语言/01-JAVA/06-jvm/assets/1722247001-738ffdb470d9c0e5edb8e2c7e20a60be.webp",
+    "02-编程语言/01-JAVA/06-jvm/assets/1722247001-fa404f317695c78803c9cda29fe2519c.png",
+    "02-编程语言/01-JAVA/06-jvm/assets/1722924406-3fc07ef2a81ffed4af26e7809392d4a6.png",
+    "02-编程语言/01-JAVA/06-jvm/assets/1722924406-024efa68f14683c6f6e89b886bd07615.svg",
+    "02-编程语言/01-JAVA/06-jvm/assets/1722924406-79c4ca4f6214631164768b4112cd8609.png",
+    "02-编程语言/01-JAVA/06-jvm/assets/1722924406-738ffdb470d9c0e5edb8e2c7e20a60be.webp",
+    "02-编程语言/01-JAVA/06-jvm/assets/1722924406-fa404f317695c78803c9cda29fe2519c.png",
+    "02-编程语言/01-JAVA/06-jvm/assets/类加载过程.png",
+    "02-编程语言/01-JAVA/06-jvm/00-总览.md",
+    "02-编程语言/01-JAVA/06-jvm/000-medium.md",
+    "02-编程语言/01-JAVA/06-jvm/0001.md",
+    "02-编程语言/01-JAVA/06-jvm/01-JVM启动参数.md",
+    "02-编程语言/01-JAVA/06-jvm/02-内存分配.md",
+    "02-编程语言/01-JAVA/06-jvm/03-垃圾回收.md",
+    "02-编程语言/01-JAVA/06-jvm/04-类加载机制.md",
+    "02-编程语言/01-JAVA/06-jvm/www.baidu.com.md",
+    "02-编程语言/01-JAVA/99-实践/assets/Pasted image 20231128173911.png",
+    "02-编程语言/01-JAVA/99-实践/01-附件预览(office转html).md",
+    "02-编程语言/02-python/01-国内镜像.md",
+    "03-web/02-css/01-white-space.md",
+    "03-web/03-javascript/01-ES6/01-class.md",
+    "03-web/03-javascript/01-ES6/02-严格模式.md",
+    "03-web/03-javascript/01-ES6/03-数组.md",
+    "03-web/03-javascript/02-深拷贝.md",
+    "03-web/04-浏览器/01-chrome/assets/snippet.jpg",
+    "03-web/04-浏览器/01-chrome/01-devtool.md",
+    "03-web/04-浏览器/02-浏览器插件/assets/测试.png",
+    "03-web/04-浏览器/02-浏览器插件/01-浏览器插件.md",
+    "03-web/99-开发工具/assets/1693201684-2fd40a70aafe1a9a9924a62ca3044418.png",
+    "03-web/99-开发工具/assets/1693201684-4e9f36060b2c5a140ed8fd4818667139.gif",
+    "03-web/99-开发工具/assets/1693201684-5a87e52af4add188ce50c51304bcd851.png",
+    "03-web/99-开发工具/assets/1693201684-6d40e135a8f34f3b6695350d09492ec1.png",
+    "03-web/99-开发工具/assets/1693201684-7b47aa60a1c602b4a4f79599a8f23da8.png",
+    "03-web/99-开发工具/assets/1693201684-8d74cc452b7bd10cd89acd3258d02fab.png",
+    "03-web/99-开发工具/assets/1693201684-34b7e53441c1bca0c9142e8fa16eba43.png",
+    "03-web/99-开发工具/assets/1693201684-40dafffaeb286b3c62c02019aa42874b.gif",
+    "03-web/99-开发工具/assets/1693201684-88fe52f7a585d783c803df54dabba948.gif",
+    "03-web/99-开发工具/assets/1693201684-8685e373eabebe388c074da38a39e138.png",
+    "03-web/99-开发工具/assets/1693201684-38285b7ce42dcfaf22bacfaf0310911d.png",
+    "03-web/99-开发工具/assets/1693201684-94948ed124733e652ee3052c24c47287.png",
+    "03-web/99-开发工具/assets/1693201684-a7829c40aa993d72e16d4a41f60433dd.gif",
+    "03-web/99-开发工具/assets/1693201684-a0531151f0e73bf13778f415d7147d58.png",
+    "03-web/99-开发工具/assets/1693201684-b87ba7fdfae5b9ee3ddb3e4b4a66d7ef.gif",
+    "03-web/99-开发工具/assets/1693201684-bd97dbf4ad83cb6ed5bb4bf9f1d2fcde.gif",
+    "03-web/99-开发工具/assets/1693201684-c784233da02663b5401ef678b9b3fb90.png",
+    "03-web/99-开发工具/assets/1693201684-d57c3f00aa531c513f38a22707f5bdd6.png",
+    "03-web/99-开发工具/assets/1693201684-db1828f7f4f2f81f5d0407877da92d29.png",
+    "03-web/99-开发工具/01-vscode和webstorm.md",
+    "04-数据库/01-mysql/assets/b+树.png",
+    "04-数据库/01-mysql/assets/B树.png",
+    "04-数据库/01-mysql/assets/Pasted image 20230305192751.png",
+    "04-数据库/01-mysql/assets/Pasted image 20230305192814.png",
+    "04-数据库/01-mysql/assets/Pasted image 20230305192831.png",
+    "04-数据库/01-mysql/assets/Pasted image 20230307181039.png",
+    "04-数据库/01-mysql/assets/Pasted image 20230308081514.png",
+    "04-数据库/01-mysql/assets/Pasted image 20230308081545.png",
+    "04-数据库/01-mysql/01-索引.md",
+    "04-数据库/01-mysql/01-索引结构.md",
+    "04-数据库/01-mysql/02-慢sql,锁表问题.md",
+    "04-数据库/01-mysql/03-事务.md",
+    "04-数据库/01-mysql/04-索引失效场景.md",
+    "04-数据库/01-mysql/05-读写分离.md",
+    "04-数据库/02-oracle/01-基本概念.md",
+    "04-数据库/02-oracle/02-头表主表.md",
+    "04-数据库/02-oracle/98-oracle对特殊字符的处理的坑.md",
+    "04-数据库/02-oracle/99-批量执行sql脚本.md",
+    "04-数据库/03-分布式数据库/01-sharding-sphere/00-概览.md",
+    "04-数据库/04-迁移工具/01-flyway.md",
+    "05-中间件/01-es/assets/倒排索引简化过程.png",
+    "05-中间件/01-es/assets/相关度.png",
+    "05-中间件/01-es/assets/自动映射.png",
+    "05-中间件/01-es/01-es基本概念.md",
+    "05-中间件/02-mq/01-rocketmq/assets/延迟队列名称.png",
+    "05-中间件/02-mq/01-rocketmq/assets/延迟消息在Broker中流转图.png",
+    "05-中间件/02-mq/01-rocketmq/assets/rocketmq架构图.png",
+    "05-中间件/02-mq/01-rocketmq/assets/rocketmq模型关系图.png",
+    "05-中间件/02-mq/01-rocketmq/00-rocketmq基本使用.md",
+    "05-中间件/02-mq/01-rocketmq/01-rocketmq-学习.md",
+    "05-中间件/02-mq/01-rocketmq/02-事务消息.md",
+    "05-中间件/02-mq/01-rocketmq/03-延迟消息.md",
+    "05-中间件/03-redis/assets/布隆过滤器.png",
+    "05-中间件/03-redis/assets/缓存穿透.png",
+    "05-中间件/03-redis/assets/缓存击穿.png",
+    "05-中间件/03-redis/assets/redis主从同步机制.png",
+    "05-中间件/03-redis/assets/Redisson底层原理图.png",
+    "05-中间件/03-redis/assets/RedLock,集群部署示意图.png",
+    "05-中间件/03-redis/03-分布式锁.md",
+    "05-中间件/03-redis/04-缓存击穿(失效)，穿透，雪崩.md",
+    "05-中间件/03-redis/05-redis持久化.md",
+    "06-分布式架构/01-微服务/01-微服务划分依据.md",
+    "06-分布式架构/01-微服务/03-负载均衡.md",
+    "06-分布式架构/01-微服务/04-DDD.md",
+    "06-分布式架构/99-雪花id.md",
+    "07-工具/01-anki/assets/1717397688-1e2d4ea3949cad2b85d4b9562d2b58de.png",
+    "07-工具/01-anki/assets/1717397688-2c8e504bbad5d1be2688c7a9bd380bd0.png",
+    "07-工具/01-anki/assets/1717397688-2f4ae5c259a08f7374914afa0c4e7106.png",
+    "07-工具/01-anki/assets/1717397688-3ea7383be73bd826eda39271d0a663ce.png",
+    "07-工具/01-anki/assets/1717397688-04ca8aef0e58ce3081d43b0ddf09bcee.png",
+    "07-工具/01-anki/assets/1717397688-5db8cc46714f3286e5f701f4b2044c61.png",
+    "07-工具/01-anki/assets/1717397688-6e21b3df6d0dd1ec1a5a39c1a83878c6.png",
+    "07-工具/01-anki/assets/1717397688-6e301ebac9e244a352e54d8b85a144b2.png",
+    "07-工具/01-anki/assets/1717397688-7e107db69277134097fa8e7cde5d1c8c.png",
+    "07-工具/01-anki/assets/1717397688-20c230f972d6756d40418283cdc077cd.png",
+    "07-工具/01-anki/assets/1717397688-49dfb7a4a4d01a55674a0f98d99d9b4a.png",
+    "07-工具/01-anki/assets/1717397688-85f340b40c298e4c8345e373be32ebf5.png",
+    "07-工具/01-anki/assets/1717397688-88de0f949cb26ae6b3f5b4fb788bd385.png",
+    "07-工具/01-anki/assets/1717397688-282ff59d954bebfd18ea4215aac9ac05.png",
+    "07-工具/01-anki/assets/1717397688-418b0b8c7330c963246839f511a776e9.png",
+    "07-工具/01-anki/assets/1717397688-684e02eb1729609b970c5af1148fdbce.png",
+    "07-工具/01-anki/assets/1717397688-07656dac644a88a8d706ca0e30d58392.png",
+    "07-工具/01-anki/assets/1717397688-51273cf9215af882a5452dacf4ea3eaa.png",
+    "07-工具/01-anki/assets/1717397688-85768b66162bee61e8de1f9fb3f7d85a.png",
+    "07-工具/01-anki/assets/1717397688-1426711041569c9a252fdcb09ce5bab1.png",
+    "07-工具/01-anki/assets/1717397688-7941436258054c1a3b0219860e550ebc.png",
+    "07-工具/01-anki/assets/1717397688-a43b7bdff1db09c3a26d427ca47ca7f9.png",
+    "07-工具/01-anki/assets/1717397688-ce7ac0d886c9bf0f4a59100cfcfb5af9.png",
+    "07-工具/01-anki/assets/1717397688-f525113dd1bea067017fba327b3000e2.png",
+    "07-工具/01-anki/01-anki基本使用.md",
+    "07-工具/01-anki/02-anki新手教程（剪藏）.md",
+    "07-工具/02-git/01-gitIgnore.md",
+    "07-工具/03-SSH/01-阮一峰SSH/01-基本知识.md",
+    "07-工具/03-SSH/01-阮一峰SSH/02-SSH客户端.md",
+    "07-工具/03-SSH/02-常用脚本.md",
+    "92-网络/01-socket/assets/1693361554-0fa75c26f126e664b5e3dabe0e991509.png",
+    "92-网络/01-socket/assets/1693361554-4cd1812e7b295c356e7de2c2839c00b1.png",
+    "92-网络/01-socket/assets/1693361554-5dfa2adb42013e831d8342195a132c5b.png",
+    "92-网络/01-socket/assets/1693361554-7eb236a18f239ffc3e0c6859bd0c3cb1.png",
+    "92-网络/01-socket/assets/1693361554-57ef451e77758dc6a7e5ea8b217e9dcf.png",
+    "92-网络/01-socket/assets/1693361554-62ab9020cabd2e5a3a870cfa817eed48.png",
+    "92-网络/01-socket/assets/1693361554-68a3ddadff54d1d05064d72cd8bbc565.png",
+    "92-网络/01-socket/assets/1693361554-636a5a0509ea56f54607ee2eb61e2efc.png",
+    "92-网络/01-socket/assets/1693361554-684b82e88a96207b0ee48d8b4efbfff5.png",
+    "92-网络/01-socket/assets/1693361554-2098a9e73a252dad253ea907b50a6a43.png",
+    "92-网络/01-socket/assets/1693361554-3839bc1d3d28f7e9672fcbedf9939250.png",
+    "92-网络/01-socket/assets/1693361554-5498f96527773c3fe4caa572be2f2fc9.png",
+    "92-网络/01-socket/assets/1693361554-6638b0bd281355a618ca20d936c024d9.png",
+    "92-网络/01-socket/assets/1693361554-64802c64d55294b53ddd3c64c370690c.png",
+    "92-网络/01-socket/assets/1693361554-6550050fb9eb117fa6657c3bb4e09d72.png",
+    "92-网络/01-socket/assets/1693361554-503725735ef01af3573a5e3382ab68ae.png",
+    "92-网络/01-socket/assets/1693361554-276502279600c27f1481a0e37abbd1a0.png",
+    "92-网络/01-socket/assets/1693361554-a2a37e3f07be51d5e4553fea4ad6d749.png",
+    "92-网络/01-socket/assets/1693361554-c0c2572e19abcfdb51ed72d7d8c7f16e.png",
+    "92-网络/01-socket/assets/1693361554-da28feac4d26a3f0c6a5fb1728da184d.png",
+    "92-网络/01-socket/assets/1693361554-e22c5fe88affe8fd0e98dd9c860f4d22.png",
+    "92-网络/01-socket/01-剪藏-socket.md",
+    "93-gpt/01-使用记录/20230717-职业规划.md",
+    "93-gpt/assets/拆解目标.png",
+    "93-gpt/assets/疯狂搜索列表.png",
+    "93-gpt/assets/附件预览-chat.jpg",
+    "93-gpt/assets/开放性问题-chat1.png",
+    "93-gpt/assets/开放性问题-chat2.png",
+    "93-gpt/assets/使用对比.png",
+    "93-gpt/assets/autogpt-任务到指令.png",
+    "93-gpt/assets/autoGPT区别.svg",
+    "93-gpt/assets/autoGPT总结.png",
+    "93-gpt/assets/autoGPTstar.svg",
+    "93-gpt/assets/forbes.png",
+    "93-gpt/assets/topRichByAutoGPT.png",
+    "93-gpt/assets/topRichByChatGPT.png",
+    "93-gpt/autoGPT.md",
+    "94-业务相关/01-财务系统/01-收单.md",
+    "95-产线实践/01-慢接口.md",
+    "96-计算机原理/01-操作系统/assets/ls-l一图解释.png",
+    "96-计算机原理/01-操作系统/01-linux.md",
+    "96-计算机原理/01-操作系统/02-linux线程间同步的方式.md",
+    "96-计算机原理/01-操作系统/03-linux常用命令.md",
+    "96-计算机原理/01-操作系统/04-常用脚本.md",
+    "96-计算机原理/01-操作系统/05-shell-basic.md",
+    "97-运维/00-一些概念/assets/什么是制品.png",
+    "97-运维/00-一些概念/assets/制品在流程中.png",
+    "97-运维/00-一些概念/01-制品.md",
+    "97-运维/01-容器化/01-docker/assets/Pasted image 20230226222414.png",
+    "97-运维/01-容器化/01-docker/assets/Pasted image 20230226222446.png",
+    "97-运维/01-容器化/01-docker/01-docker入门.md",
+    "97-运维/02-监控/01-Prometheus(普罗米修斯).md",
+    "97-运维/assets/ansible中的概念映射到CICD流程中.svg",
+    "97-运维/99-ansible.md",
+    "98-面试技巧/01-面试记录.md",
+    "98-面试技巧/02-介绍项目.md",
+    "98-面试技巧/面试技巧.md",
+    "99-个人博客/01-hexo/hexo.md",
+    "AllBooks.md",
+    "README.md",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "00-obsidian的使用/99-剪藏/assets/1693202648-2c82c6cd32145b16c7c40a93251d9bd9.jpg": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 44758,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693202648-2c82c6cd32145b16c7c40a93251d9bd9.jpg",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693202648-03cb495944da8593f31c4040f4cd0cd6.webp": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 18114,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693202648-03cb495944da8593f31c4040f4cd0cd6.webp",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693202648-3db2a8665fd78dd620f3c6b9dc9e7c4a.webp": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 15532,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693202648-3db2a8665fd78dd620f3c6b9dc9e7c4a.webp",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693202648-5b554e7949b9594ffd54634819a2094f.svg": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 71,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693202648-5b554e7949b9594ffd54634819a2094f.svg",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693202648-5c9af4b889d1daeab7126739d54d56c3.webp": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 7174,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693202648-5c9af4b889d1daeab7126739d54d56c3.webp",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693202648-5dee62d343aecdf1ee60fdd355bae8ae.webp": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 10950,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693202648-5dee62d343aecdf1ee60fdd355bae8ae.webp",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693202648-7c6319fa9cc06131b427290bdfd0585b.webp": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 15314,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693202648-7c6319fa9cc06131b427290bdfd0585b.webp",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693202648-8fdaf274ce941928555da4e0c07f552d.webp": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 8972,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693202648-8fdaf274ce941928555da4e0c07f552d.webp",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693202648-42e2be81430f29bb3391ee0d6e4b0e25.svg": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 71,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693202648-42e2be81430f29bb3391ee0d6e4b0e25.svg",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693202648-48c571b7bf1fa3314dc285089368d997.jpg": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 87541,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693202648-48c571b7bf1fa3314dc285089368d997.jpg",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693202648-59cf74acb1d311ea72777042af2da50f.svg": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 71,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693202648-59cf74acb1d311ea72777042af2da50f.svg",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693202648-71b0cf549326a503241ffef2951434ce.webp": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 39889,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693202648-71b0cf549326a503241ffef2951434ce.webp",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693202648-94b74c752102dc33469b08e8488e4801.jpg": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 58984,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693202648-94b74c752102dc33469b08e8488e4801.jpg",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693202648-355ee94cbf9a1b0f483eeb9825ffd38b.svg": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 70,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693202648-355ee94cbf9a1b0f483eeb9825ffd38b.svg",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693202648-698cd67ec2e791d9f452c754f21e4224.svg": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 71,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693202648-698cd67ec2e791d9f452c754f21e4224.svg",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693202648-792eafe90d54c188dbaf659c8a60ea4f.svg": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 71,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693202648-792eafe90d54c188dbaf659c8a60ea4f.svg",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693202648-1330c5963c2005b0998c8286ffd883d0.webp": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 9743,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693202648-1330c5963c2005b0998c8286ffd883d0.webp",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693202648-1652dd33a8941d175c05f3a2972ca7ed.webp": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 23848,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693202648-1652dd33a8941d175c05f3a2972ca7ed.webp",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693202648-1709af28b499b893d5f20bbd954f8e64.svg": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 71,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693202648-1709af28b499b893d5f20bbd954f8e64.svg",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693202648-4388e7e5790e8e7416f6e53746e30b84.jpg": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 129432,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693202648-4388e7e5790e8e7416f6e53746e30b84.jpg",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693202648-4620da658c1724d391b35fb7777837eb.svg": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 71,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693202648-4620da658c1724d391b35fb7777837eb.svg",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693202648-287059b5c3b3a7ae1f384c1eb0f7dfbb.jpg": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 79983,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693202648-287059b5c3b3a7ae1f384c1eb0f7dfbb.jpg",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693202648-828558cb29d26ff2bb80f39827194674.webp": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 28420,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693202648-828558cb29d26ff2bb80f39827194674.webp",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693202648-b287d1087f759b3832086c37b84fba12.webp": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 34617,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693202648-b287d1087f759b3832086c37b84fba12.webp",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693202648-b4271d9a4f8f7a177ac36eb08d559f12.jpg": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 121839,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693202648-b4271d9a4f8f7a177ac36eb08d559f12.jpg",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693202648-b900399e566025f20795dbb807af0992.jpg": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 138741,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693202648-b900399e566025f20795dbb807af0992.jpg",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693202648-c41857deeccda66281424c93dbafd3af.svg": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 71,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693202648-c41857deeccda66281424c93dbafd3af.svg",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693202648-d33f41bea20cd7b85f5fbc5de77a3f16.webp": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 24368,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693202648-d33f41bea20cd7b85f5fbc5de77a3f16.webp",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693202648-d73b4078e3b5a1eebca0eba6ef9b5152.svg": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 72,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693202648-d73b4078e3b5a1eebca0eba6ef9b5152.svg",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693202648-d753a1c173e8cbd338155a3c09ad2a81.jpg": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 74895,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693202648-d753a1c173e8cbd338155a3c09ad2a81.jpg",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693202648-dc567be19ec6bac525abcc7ebe8a03d2.svg": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 70,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693202648-dc567be19ec6bac525abcc7ebe8a03d2.svg",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693202648-de58250495870a13bf4ea1484fb1997d.webp": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 26336,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693202648-de58250495870a13bf4ea1484fb1997d.webp",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693202648-e1e6e95e7047cd8843141d79deb5f5b1.svg": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 71,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693202648-e1e6e95e7047cd8843141d79deb5f5b1.svg",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693202648-e2361ad1338d9cffd79b0529ecf9e4ee.webp": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 14566,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693202648-e2361ad1338d9cffd79b0529ecf9e4ee.webp",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693202648-f9355631221939305b119ee6a5d3ae8b.webp": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 28080,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693202648-f9355631221939305b119ee6a5d3ae8b.webp",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693209248-2c82c6cd32145b16c7c40a93251d9bd9.jpg": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 44758,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693209248-2c82c6cd32145b16c7c40a93251d9bd9.jpg",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693209248-03cb495944da8593f31c4040f4cd0cd6.webp": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 18114,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693209248-03cb495944da8593f31c4040f4cd0cd6.webp",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693209248-3db2a8665fd78dd620f3c6b9dc9e7c4a.webp": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 15532,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693209248-3db2a8665fd78dd620f3c6b9dc9e7c4a.webp",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693209248-5b554e7949b9594ffd54634819a2094f.svg": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 71,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693209248-5b554e7949b9594ffd54634819a2094f.svg",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693209248-5c9af4b889d1daeab7126739d54d56c3.webp": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 7174,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693209248-5c9af4b889d1daeab7126739d54d56c3.webp",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693209248-5dee62d343aecdf1ee60fdd355bae8ae.webp": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 10950,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693209248-5dee62d343aecdf1ee60fdd355bae8ae.webp",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693209248-7c6319fa9cc06131b427290bdfd0585b.webp": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 15314,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693209248-7c6319fa9cc06131b427290bdfd0585b.webp",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693209248-8fdaf274ce941928555da4e0c07f552d.webp": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 8972,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693209248-8fdaf274ce941928555da4e0c07f552d.webp",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693209248-42e2be81430f29bb3391ee0d6e4b0e25.svg": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 71,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693209248-42e2be81430f29bb3391ee0d6e4b0e25.svg",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693209248-48c571b7bf1fa3314dc285089368d997.jpg": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 87541,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693209248-48c571b7bf1fa3314dc285089368d997.jpg",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693209248-59cf74acb1d311ea72777042af2da50f.svg": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 71,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693209248-59cf74acb1d311ea72777042af2da50f.svg",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693209248-71b0cf549326a503241ffef2951434ce.webp": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 39889,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693209248-71b0cf549326a503241ffef2951434ce.webp",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693209248-94b74c752102dc33469b08e8488e4801.jpg": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 58984,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693209248-94b74c752102dc33469b08e8488e4801.jpg",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693209248-355ee94cbf9a1b0f483eeb9825ffd38b.svg": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 70,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693209248-355ee94cbf9a1b0f483eeb9825ffd38b.svg",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693209248-698cd67ec2e791d9f452c754f21e4224.svg": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 71,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693209248-698cd67ec2e791d9f452c754f21e4224.svg",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693209248-792eafe90d54c188dbaf659c8a60ea4f.svg": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 71,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693209248-792eafe90d54c188dbaf659c8a60ea4f.svg",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693209248-1330c5963c2005b0998c8286ffd883d0.webp": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 9743,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693209248-1330c5963c2005b0998c8286ffd883d0.webp",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693209248-1652dd33a8941d175c05f3a2972ca7ed.webp": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 23848,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693209248-1652dd33a8941d175c05f3a2972ca7ed.webp",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693209248-1709af28b499b893d5f20bbd954f8e64.svg": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 71,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693209248-1709af28b499b893d5f20bbd954f8e64.svg",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693209248-4388e7e5790e8e7416f6e53746e30b84.jpg": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 129432,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693209248-4388e7e5790e8e7416f6e53746e30b84.jpg",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693209248-4620da658c1724d391b35fb7777837eb.svg": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 71,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693209248-4620da658c1724d391b35fb7777837eb.svg",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693209248-287059b5c3b3a7ae1f384c1eb0f7dfbb.jpg": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 79983,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693209248-287059b5c3b3a7ae1f384c1eb0f7dfbb.jpg",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693209248-828558cb29d26ff2bb80f39827194674.webp": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 28420,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693209248-828558cb29d26ff2bb80f39827194674.webp",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693209248-b287d1087f759b3832086c37b84fba12.webp": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 34617,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693209248-b287d1087f759b3832086c37b84fba12.webp",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693209248-b4271d9a4f8f7a177ac36eb08d559f12.jpg": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 121839,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693209248-b4271d9a4f8f7a177ac36eb08d559f12.jpg",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693209248-b900399e566025f20795dbb807af0992.jpg": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 138741,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693209248-b900399e566025f20795dbb807af0992.jpg",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693209248-c41857deeccda66281424c93dbafd3af.svg": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 71,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693209248-c41857deeccda66281424c93dbafd3af.svg",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693209248-d33f41bea20cd7b85f5fbc5de77a3f16.webp": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 24368,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693209248-d33f41bea20cd7b85f5fbc5de77a3f16.webp",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693209248-d73b4078e3b5a1eebca0eba6ef9b5152.svg": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 72,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693209248-d73b4078e3b5a1eebca0eba6ef9b5152.svg",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693209248-d753a1c173e8cbd338155a3c09ad2a81.jpg": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 74895,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693209248-d753a1c173e8cbd338155a3c09ad2a81.jpg",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693209248-dc567be19ec6bac525abcc7ebe8a03d2.svg": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 70,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693209248-dc567be19ec6bac525abcc7ebe8a03d2.svg",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693209248-de58250495870a13bf4ea1484fb1997d.webp": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 26336,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693209248-de58250495870a13bf4ea1484fb1997d.webp",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693209248-e1e6e95e7047cd8843141d79deb5f5b1.svg": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 71,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693209248-e1e6e95e7047cd8843141d79deb5f5b1.svg",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693209248-e2361ad1338d9cffd79b0529ecf9e4ee.webp": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 14566,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693209248-e2361ad1338d9cffd79b0529ecf9e4ee.webp",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693209248-f9355631221939305b119ee6a5d3ae8b.webp": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 28080,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693209248-f9355631221939305b119ee6a5d3ae8b.webp",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693276155-1a74a2b11d8479978763b7a752632fe7.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 1150124,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693276155-1a74a2b11d8479978763b7a752632fe7.png",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693276155-2a2fde2cfe64f171c17457f81ba961a2.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 67099,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693276155-2a2fde2cfe64f171c17457f81ba961a2.png",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693276155-04a80ca087ab7b0d7acecbb286c8b648.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 376769,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693276155-04a80ca087ab7b0d7acecbb286c8b648.png",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693276155-5fbe338b9b6c27c27fc492901021a1f3.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 297191,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693276155-5fbe338b9b6c27c27fc492901021a1f3.png",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693276155-8cd519ee1a13a0f3a72a5534649be5c8.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 250694,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693276155-8cd519ee1a13a0f3a72a5534649be5c8.png",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693276155-8cec1931215bd069184c636454e87254.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 2618956,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693276155-8cec1931215bd069184c636454e87254.png",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693276155-86a87229b87c4e5c56e8a0255b4f5a88.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 92220,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693276155-86a87229b87c4e5c56e8a0255b4f5a88.png",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693276155-a82e7c440cee838dbe2222fe64377d46.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 887996,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693276155-a82e7c440cee838dbe2222fe64377d46.png",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693276155-d0f684390316f0f24f788072cf70ba2c.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 286558,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693276155-d0f684390316f0f24f788072cf70ba2c.png",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/assets/1693276155-d2638669d96b38b4e86f36a280958034.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 298227,
+      "exportedPath": "00-obsidian的使用/99-剪藏/assets/1693276155-d2638669d96b38b4e86f36a280958034.png",
+      "dependencies": []
+    },
+    "00-obsidian的使用/99-剪藏/01-插件的开发.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 26135,
+      "exportedPath": "00-obsidian的使用/99-剪藏/01-插件的开发.html",
+      "dependencies": [
+        "00-obsidian的使用/99-剪藏/assets/1693209248-7c6319fa9cc06131b427290bdfd0585b.webp",
+        "00-obsidian的使用/99-剪藏/assets/1693209248-3db2a8665fd78dd620f3c6b9dc9e7c4a.webp",
+        "00-obsidian的使用/99-剪藏/assets/1693209248-b287d1087f759b3832086c37b84fba12.webp",
+        "00-obsidian的使用/99-剪藏/assets/1693209248-f9355631221939305b119ee6a5d3ae8b.webp",
+        "00-obsidian的使用/99-剪藏/assets/1693209248-1652dd33a8941d175c05f3a2972ca7ed.webp",
+        "00-obsidian的使用/99-剪藏/assets/1693209248-2c82c6cd32145b16c7c40a93251d9bd9.jpg",
+        "00-obsidian的使用/99-剪藏/assets/1693209248-5dee62d343aecdf1ee60fdd355bae8ae.webp",
+        "00-obsidian的使用/99-剪藏/assets/1693209248-71b0cf549326a503241ffef2951434ce.webp",
+        "00-obsidian的使用/99-剪藏/assets/1693209248-d33f41bea20cd7b85f5fbc5de77a3f16.webp",
+        "00-obsidian的使用/99-剪藏/assets/1693209248-8fdaf274ce941928555da4e0c07f552d.webp",
+        "00-obsidian的使用/99-剪藏/assets/1693209248-4388e7e5790e8e7416f6e53746e30b84.jpg",
+        "00-obsidian的使用/99-剪藏/assets/1693209248-b900399e566025f20795dbb807af0992.jpg",
+        "00-obsidian的使用/99-剪藏/assets/1693209248-b900399e566025f20795dbb807af0992.jpg",
+        "00-obsidian的使用/99-剪藏/assets/1693209248-b900399e566025f20795dbb807af0992.jpg",
+        "00-obsidian的使用/99-剪藏/assets/1693209248-b900399e566025f20795dbb807af0992.jpg",
+        "00-obsidian的使用/99-剪藏/assets/1693209248-e2361ad1338d9cffd79b0529ecf9e4ee.webp",
+        "00-obsidian的使用/99-剪藏/assets/1693209248-b4271d9a4f8f7a177ac36eb08d559f12.jpg",
+        "00-obsidian的使用/99-剪藏/assets/1693209248-b4271d9a4f8f7a177ac36eb08d559f12.jpg",
+        "00-obsidian的使用/99-剪藏/assets/1693209248-d753a1c173e8cbd338155a3c09ad2a81.jpg",
+        "00-obsidian的使用/99-剪藏/assets/1693209248-d753a1c173e8cbd338155a3c09ad2a81.jpg",
+        "00-obsidian的使用/99-剪藏/assets/1693209248-94b74c752102dc33469b08e8488e4801.jpg",
+        "00-obsidian的使用/99-剪藏/assets/1693209248-94b74c752102dc33469b08e8488e4801.jpg",
+        "00-obsidian的使用/99-剪藏/assets/1693209248-03cb495944da8593f31c4040f4cd0cd6.webp",
+        "00-obsidian的使用/99-剪藏/assets/1693209248-828558cb29d26ff2bb80f39827194674.webp",
+        "00-obsidian的使用/99-剪藏/assets/1693209248-de58250495870a13bf4ea1484fb1997d.webp",
+        "00-obsidian的使用/99-剪藏/assets/1693209248-5c9af4b889d1daeab7126739d54d56c3.webp",
+        "00-obsidian的使用/99-剪藏/assets/1693209248-1330c5963c2005b0998c8286ffd883d0.webp",
+        "00-obsidian的使用/99-剪藏/assets/1693209248-c41857deeccda66281424c93dbafd3af.svg",
+        "00-obsidian的使用/99-剪藏/assets/1693209248-48c571b7bf1fa3314dc285089368d997.jpg",
+        "00-obsidian的使用/99-剪藏/assets/1693209248-48c571b7bf1fa3314dc285089368d997.jpg",
+        "00-obsidian的使用/99-剪藏/assets/1693209248-792eafe90d54c188dbaf659c8a60ea4f.svg",
+        "00-obsidian的使用/99-剪藏/assets/1693209248-4620da658c1724d391b35fb7777837eb.svg",
+        "00-obsidian的使用/99-剪藏/assets/1693209248-355ee94cbf9a1b0f483eeb9825ffd38b.svg",
+        "00-obsidian的使用/99-剪藏/assets/1693209248-1709af28b499b893d5f20bbd954f8e64.svg",
+        "00-obsidian的使用/99-剪藏/assets/1693209248-698cd67ec2e791d9f452c754f21e4224.svg",
+        "00-obsidian的使用/99-剪藏/assets/1693209248-59cf74acb1d311ea72777042af2da50f.svg",
+        "00-obsidian的使用/99-剪藏/assets/1693209248-d73b4078e3b5a1eebca0eba6ef9b5152.svg",
+        "00-obsidian的使用/99-剪藏/assets/1693209248-287059b5c3b3a7ae1f384c1eb0f7dfbb.jpg",
+        "00-obsidian的使用/99-剪藏/assets/1693209248-287059b5c3b3a7ae1f384c1eb0f7dfbb.jpg",
+        "00-obsidian的使用/99-剪藏/assets/1693209248-42e2be81430f29bb3391ee0d6e4b0e25.svg",
+        "00-obsidian的使用/99-剪藏/assets/1693209248-5b554e7949b9594ffd54634819a2094f.svg",
+        "00-obsidian的使用/99-剪藏/assets/1693209248-dc567be19ec6bac525abcc7ebe8a03d2.svg",
+        "00-obsidian的使用/99-剪藏/assets/1693209248-e1e6e95e7047cd8843141d79deb5f5b1.svg"
+      ]
+    },
+    "00-obsidian的使用/99-剪藏/02-免费直接把笔记发布成网站Obsidian&GitHub&Netlify.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 4380,
+      "exportedPath": "00-obsidian的使用/99-剪藏/02-免费直接把笔记发布成网站obsidian&github&netlify.html",
+      "dependencies": [
+        "00-obsidian的使用/99-剪藏/assets/1693276155-1a74a2b11d8479978763b7a752632fe7.png",
+        "00-obsidian的使用/99-剪藏/assets/1693276155-8cec1931215bd069184c636454e87254.png",
+        "00-obsidian的使用/99-剪藏/assets/1693276155-8cd519ee1a13a0f3a72a5534649be5c8.png",
+        "00-obsidian的使用/99-剪藏/assets/1693276155-d0f684390316f0f24f788072cf70ba2c.png",
+        "00-obsidian的使用/99-剪藏/assets/1693276155-a82e7c440cee838dbe2222fe64377d46.png",
+        "00-obsidian的使用/99-剪藏/assets/1693276155-2a2fde2cfe64f171c17457f81ba961a2.png",
+        "00-obsidian的使用/99-剪藏/assets/1693276155-86a87229b87c4e5c56e8a0255b4f5a88.png",
+        "00-obsidian的使用/99-剪藏/assets/1693276155-d2638669d96b38b4e86f36a280958034.png",
+        "00-obsidian的使用/99-剪藏/assets/1693276155-5fbe338b9b6c27c27fc492901021a1f3.png",
+        "00-obsidian的使用/99-剪藏/assets/1693276155-04a80ca087ab7b0d7acecbb286c8b648.png"
+      ]
+    },
+    "00-obsidian的使用/assets/实测！房东送的五级能效空调，到底赚走多少电费？.mp4": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 29233725,
+      "exportedPath": "00-obsidian的使用/assets/实测！房东送的五级能效空调，到底赚走多少电费？.mp4",
+      "dependencies": []
+    },
+    "00-obsidian的使用/assets/img-2024.06.04-04.03.07.jpg": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 267483,
+      "exportedPath": "00-obsidian的使用/assets/img-2024.06.04-04.03.07.jpg",
+      "dependencies": []
+    },
+    "00-obsidian的使用/assets/Pasted image 20221226135034.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 152849,
+      "exportedPath": "00-obsidian的使用/assets/pasted-image-20221226135034.png",
+      "dependencies": []
+    },
+    "00-obsidian的使用/assets/Pasted image 20221228165318.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 45738,
+      "exportedPath": "00-obsidian的使用/assets/pasted-image-20221228165318.png",
+      "dependencies": []
+    },
+    "00-obsidian的使用/assets/Pasted image 20240531120152.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 36096,
+      "exportedPath": "00-obsidian的使用/assets/pasted-image-20240531120152.png",
+      "dependencies": []
+    },
+    "00-obsidian的使用/assets/Pasted image 20240603093855.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 45400,
+      "exportedPath": "00-obsidian的使用/assets/pasted-image-20240603093855.png",
+      "dependencies": []
+    },
+    "00-obsidian的使用/assets/Pasted image 20240604174231.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 29290,
+      "exportedPath": "00-obsidian的使用/assets/pasted-image-20240604174231.png",
+      "dependencies": []
+    },
+    "00-obsidian的使用/assets/Pasted image 20240604174419.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 27540,
+      "exportedPath": "00-obsidian的使用/assets/pasted-image-20240604174419.png",
+      "dependencies": []
+    },
+    "00-obsidian的使用/assets/Pasted image 20240605095749.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 85807,
+      "exportedPath": "00-obsidian的使用/assets/pasted-image-20240605095749.png",
+      "dependencies": []
+    },
+    "00-obsidian的使用/assets/Pasted image 20240605100158.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 39519,
+      "exportedPath": "00-obsidian的使用/assets/pasted-image-20240605100158.png",
+      "dependencies": []
+    },
+    "00-obsidian的使用/assets/use wikiLink.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 71365,
+      "exportedPath": "00-obsidian的使用/assets/use-wikilink.png",
+      "dependencies": []
+    },
+    "00-obsidian的使用/01-markdown语法.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 7786,
+      "exportedPath": "00-obsidian的使用/01-markdown语法.html",
+      "dependencies": []
+    },
+    "00-obsidian的使用/02-基础设置.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 1382,
+      "exportedPath": "00-obsidian的使用/02-基础设置.html",
+      "dependencies": [
+        "00-obsidian的使用/assets/pasted-image-20221226135034.png",
+        "00-obsidian的使用/assets/use-wikilink.png"
+      ]
+    },
+    "00-obsidian的使用/03-插件.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 4468,
+      "exportedPath": "00-obsidian的使用/03-插件.html",
+      "dependencies": [
+        "00-obsidian的使用/assets/pasted-image-20221228165318.png",
+        "00-obsidian的使用/assets/pasted-image-20240603093855.png",
+        "00-obsidian的使用/assets/img-2024.06.04-04.03.07.jpg",
+        "00-obsidian的使用/assets/pasted-image-20240604174419.png",
+        "00-obsidian的使用/assets/pasted-image-20240605095749.png",
+        "00-obsidian的使用/assets/pasted-image-20240605100158.png"
+      ]
+    },
+    "00-obsidian的使用/04-test_obsidian_to_anki.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 869,
+      "exportedPath": "00-obsidian的使用/04-test_obsidian_to_anki.html",
+      "dependencies": [
+        "00-obsidian的使用/assets/pasted-image-20221228165318.png"
+      ]
+    },
+    "00-obsidian的使用/Drawing 2023-08-25 16.30.44.excalidraw.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 11333,
+      "exportedPath": "00-obsidian的使用/drawing-2023-08-25-16.30.44.excalidraw.html",
+      "dependencies": []
+    },
+    "00-obsidian的使用/obsidian的使用.canvas": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 916,
+      "exportedPath": "00-obsidian的使用/obsidian的使用.html",
+      "dependencies": [
+        "00-obsidian的使用/assets/pasted-image-20221226135034.png",
+        "00-obsidian的使用/assets/use-wikilink.png",
+        "00-obsidian的使用/assets/pasted-image-20221228165318.png",
+        "00-obsidian的使用/assets/pasted-image-20240603093855.png",
+        "00-obsidian的使用/assets/img-2024.06.04-04.03.07.jpg",
+        "00-obsidian的使用/assets/pasted-image-20240604174419.png",
+        "00-obsidian的使用/assets/pasted-image-20240605095749.png",
+        "00-obsidian的使用/assets/pasted-image-20240605100158.png"
+      ]
+    },
+    "01-数据结构与算法/01-hash/01-什么是hash.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 27,
+      "exportedPath": "01-数据结构与算法/01-hash/01-什么是hash.html",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/00-基础/00-基本类型.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 457,
+      "exportedPath": "02-编程语言/01-java/00-基础/00-基本类型.html",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/00-基础/01-xx.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 8182,
+      "exportedPath": "02-编程语言/01-java/00-基础/01-xx.html",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/00-基础/Untitled mindmap.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 125,
+      "exportedPath": "02-编程语言/01-java/00-基础/untitled-mindmap.html",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/01-集合/assets/hashmap的put操作流程图.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 132067,
+      "exportedPath": "02-编程语言/01-java/01-集合/assets/hashmap的put操作流程图.png",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/01-集合/01-map.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 6041,
+      "exportedPath": "02-编程语言/01-java/01-集合/01-map.html",
+      "dependencies": [
+        "02-编程语言/01-java/01-集合/assets/hashmap的put操作流程图.png"
+      ]
+    },
+    "02-编程语言/01-JAVA/01-集合/02-线程安全的集合.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 1032,
+      "exportedPath": "02-编程语言/01-java/01-集合/02-线程安全的集合.html",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/01-JDK版本特性/01-java8特性.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 19920,
+      "exportedPath": "02-编程语言/01-java/01-jdk版本特性/01-java8特性.html",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/02-多线程/assets/常见的等待队列.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 347548,
+      "exportedPath": "02-编程语言/01-java/02-多线程/assets/常见的等待队列.png",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/02-多线程/assets/动态化线程池功能架构.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 95540,
+      "exportedPath": "02-编程语言/01-java/02-多线程/assets/动态化线程池功能架构.png",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/02-多线程/assets/动态化线程池整体设计.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 42552,
+      "exportedPath": "02-编程语言/01-java/02-多线程/assets/动态化线程池整体设计.png",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/02-多线程/assets/线程池参数动态化.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 79327,
+      "exportedPath": "02-编程语言/01-java/02-多线程/assets/线程池参数动态化.png",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/02-多线程/assets/线程池参数设置的合理性.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 182998,
+      "exportedPath": "02-编程语言/01-java/02-多线程/assets/线程池参数设置的合理性.png",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/02-多线程/assets/线程状态图.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 81174,
+      "exportedPath": "02-编程语言/01-java/02-多线程/assets/线程状态图.png",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/02-多线程/assets/线程状态图2.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 230503,
+      "exportedPath": "02-编程语言/01-java/02-多线程/assets/线程状态图2.png",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/02-多线程/assets/JMM抽象示意图.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 267246,
+      "exportedPath": "02-编程语言/01-java/02-多线程/assets/jmm抽象示意图.png",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/02-多线程/assets/Pasted image 20230306161651.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 19230,
+      "exportedPath": "02-编程语言/01-java/02-多线程/assets/pasted-image-20230306161651.png",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/02-多线程/assets/Pasted image 20230306161707.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 42783,
+      "exportedPath": "02-编程语言/01-java/02-多线程/assets/pasted-image-20230306161707.png",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/02-多线程/assets/wait,notify原理图.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 123282,
+      "exportedPath": "02-编程语言/01-java/02-多线程/assets/wait,notify原理图.png",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/02-多线程/02-多线程.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 27539,
+      "exportedPath": "02-编程语言/01-java/02-多线程/02-多线程.html",
+      "dependencies": [
+        "02-编程语言/01-java/02-多线程/assets/线程状态图.png",
+        "02-编程语言/01-java/02-多线程/assets/线程状态图2.png",
+        "02-编程语言/01-java/02-多线程/assets/wait,notify原理图.png"
+      ]
+    },
+    "02-编程语言/01-JAVA/02-多线程/03-ThreadLocal.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 1175,
+      "exportedPath": "02-编程语言/01-java/02-多线程/03-threadlocal.html",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/02-多线程/04-线程池ThreadPoolExecutor.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 11404,
+      "exportedPath": "02-编程语言/01-java/02-多线程/04-线程池threadpoolexecutor.html",
+      "dependencies": [
+        "02-编程语言/01-java/02-多线程/assets/常见的等待队列.png",
+        "02-编程语言/01-java/02-多线程/assets/线程池参数设置的合理性.png",
+        "02-编程语言/01-java/02-多线程/assets/动态化线程池整体设计.png",
+        "02-编程语言/01-java/02-多线程/assets/动态化线程池功能架构.png",
+        "02-编程语言/01-java/02-多线程/assets/线程池参数动态化.png",
+        "02-编程语言/01-java/02-多线程/assets/pasted-image-20230306161651.png",
+        "02-编程语言/01-java/02-多线程/assets/pasted-image-20230306161707.png"
+      ]
+    },
+    "02-编程语言/01-JAVA/02-多线程/05-多线程jvm实现(volatile,synchronized).md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 20048,
+      "exportedPath": "02-编程语言/01-java/02-多线程/05-多线程jvm实现(volatile,synchronized).html",
+      "dependencies": [
+        "02-编程语言/01-java/02-多线程/assets/jmm抽象示意图.png"
+      ]
+    },
+    "02-编程语言/01-JAVA/02-多线程/06-synchronized.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 907,
+      "exportedPath": "02-编程语言/01-java/02-多线程/06-synchronized.html",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/02-多线程/07-线程-集合.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 824,
+      "exportedPath": "02-编程语言/01-java/02-多线程/07-线程-集合.html",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/03-spring/assets/循环依赖-AB.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 126235,
+      "exportedPath": "02-编程语言/01-java/03-spring/assets/循环依赖-ab.png",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/03-spring/assets/bean的生命周期.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 925007,
+      "exportedPath": "02-编程语言/01-java/03-spring/assets/bean的生命周期.png",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/03-spring/assets/Pasted image 20230301153532.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 75895,
+      "exportedPath": "02-编程语言/01-java/03-spring/assets/pasted-image-20230301153532.png",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/03-spring/assets/Pasted image 20230305192254.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 130823,
+      "exportedPath": "02-编程语言/01-java/03-spring/assets/pasted-image-20230305192254.png",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/03-spring/assets/Pasted image 20230305192328.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 103814,
+      "exportedPath": "02-编程语言/01-java/03-spring/assets/pasted-image-20230305192328.png",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/03-spring/assets/spring-事务.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 95252,
+      "exportedPath": "02-编程语言/01-java/03-spring/assets/spring-事务.png",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/03-spring/assets/spring事务失效.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 175806,
+      "exportedPath": "02-编程语言/01-java/03-spring/assets/spring事务失效.png",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/03-spring/00-spring.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 11930,
+      "exportedPath": "02-编程语言/01-java/03-spring/00-spring.html",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/03-spring/00-spring核心思想.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 2611,
+      "exportedPath": "02-编程语言/01-java/03-spring/00-spring核心思想.html",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/03-spring/01-bean的生命周期.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 6610,
+      "exportedPath": "02-编程语言/01-java/03-spring/01-bean的生命周期.html",
+      "dependencies": [
+        "02-编程语言/01-java/03-spring/assets/bean的生命周期.png"
+      ]
+    },
+    "02-编程语言/01-JAVA/03-spring/02-DI.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 3581,
+      "exportedPath": "02-编程语言/01-java/03-spring/02-di.html",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/03-spring/03-IOC.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 9142,
+      "exportedPath": "02-编程语言/01-java/03-spring/03-ioc.html",
+      "dependencies": [
+        "02-编程语言/01-java/03-spring/assets/循环依赖-ab.png"
+      ]
+    },
+    "02-编程语言/01-JAVA/03-spring/04-AOP.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 14010,
+      "exportedPath": "02-编程语言/01-java/03-spring/04-aop.html",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/03-spring/05-事务.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 3662,
+      "exportedPath": "02-编程语言/01-java/03-spring/05-事务.html",
+      "dependencies": [
+        "02-编程语言/01-java/03-spring/assets/spring-事务.png",
+        "02-编程语言/01-java/03-spring/assets/spring事务失效.png"
+      ]
+    },
+    "02-编程语言/01-JAVA/03-spring/06-springMVC.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 139,
+      "exportedPath": "02-编程语言/01-java/03-spring/06-springmvc.html",
+      "dependencies": [
+        "02-编程语言/01-java/03-spring/assets/pasted-image-20230301153532.png"
+      ]
+    },
+    "02-编程语言/01-JAVA/03-spring/098-常用注解.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 255,
+      "exportedPath": "02-编程语言/01-java/03-spring/098-常用注解.html",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/03-spring/99-其他.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 1759,
+      "exportedPath": "02-编程语言/01-java/03-spring/99-其他.html",
+      "dependencies": [
+        "02-编程语言/01-java/03-spring/assets/pasted-image-20230305192254.png",
+        "02-编程语言/01-java/03-spring/assets/pasted-image-20230305192328.png"
+      ]
+    },
+    "02-编程语言/01-JAVA/04-springboot/01-启动过程.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 68,
+      "exportedPath": "02-编程语言/01-java/04-springboot/01-启动过程.html",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/04-springboot/02-循环依赖.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 240,
+      "exportedPath": "02-编程语言/01-java/04-springboot/02-循环依赖.html",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/04-springboot/未命名.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 26,
+      "exportedPath": "02-编程语言/01-java/04-springboot/未命名.html",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/05-mybatis/assets/mybatis符号区别.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 209673,
+      "exportedPath": "02-编程语言/01-java/05-mybatis/assets/mybatis符号区别.png",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/05-mybatis/未命名.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 61,
+      "exportedPath": "02-编程语言/01-java/05-mybatis/未命名.html",
+      "dependencies": [
+        "02-编程语言/01-java/05-mybatis/assets/mybatis符号区别.png"
+      ]
+    },
+    "02-编程语言/01-JAVA/06-jvm/assets/1722247001-3fc07ef2a81ffed4af26e7809392d4a6.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 11438,
+      "exportedPath": "02-编程语言/01-java/06-jvm/assets/1722247001-3fc07ef2a81ffed4af26e7809392d4a6.png",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/06-jvm/assets/1722247001-69e34c9873f6a781650f36dd06391e3f.webp": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 49880,
+      "exportedPath": "02-编程语言/01-java/06-jvm/assets/1722247001-69e34c9873f6a781650f36dd06391e3f.webp",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/06-jvm/assets/1722247001-79c4ca4f6214631164768b4112cd8609.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 8300,
+      "exportedPath": "02-编程语言/01-java/06-jvm/assets/1722247001-79c4ca4f6214631164768b4112cd8609.png",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/06-jvm/assets/1722247001-738ffdb470d9c0e5edb8e2c7e20a60be.webp": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 65104,
+      "exportedPath": "02-编程语言/01-java/06-jvm/assets/1722247001-738ffdb470d9c0e5edb8e2c7e20a60be.webp",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/06-jvm/assets/1722247001-fa404f317695c78803c9cda29fe2519c.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 11651,
+      "exportedPath": "02-编程语言/01-java/06-jvm/assets/1722247001-fa404f317695c78803c9cda29fe2519c.png",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/06-jvm/assets/1722924406-3fc07ef2a81ffed4af26e7809392d4a6.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 11438,
+      "exportedPath": "02-编程语言/01-java/06-jvm/assets/1722924406-3fc07ef2a81ffed4af26e7809392d4a6.png",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/06-jvm/assets/1722924406-024efa68f14683c6f6e89b886bd07615.svg": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 144,
+      "exportedPath": "02-编程语言/01-java/06-jvm/assets/1722924406-024efa68f14683c6f6e89b886bd07615.svg",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/06-jvm/assets/1722924406-79c4ca4f6214631164768b4112cd8609.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 8300,
+      "exportedPath": "02-编程语言/01-java/06-jvm/assets/1722924406-79c4ca4f6214631164768b4112cd8609.png",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/06-jvm/assets/1722924406-738ffdb470d9c0e5edb8e2c7e20a60be.webp": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 65104,
+      "exportedPath": "02-编程语言/01-java/06-jvm/assets/1722924406-738ffdb470d9c0e5edb8e2c7e20a60be.webp",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/06-jvm/assets/1722924406-fa404f317695c78803c9cda29fe2519c.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 11651,
+      "exportedPath": "02-编程语言/01-java/06-jvm/assets/1722924406-fa404f317695c78803c9cda29fe2519c.png",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/06-jvm/assets/类加载过程.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 15069,
+      "exportedPath": "02-编程语言/01-java/06-jvm/assets/类加载过程.png",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/06-jvm/00-总览.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 14089,
+      "exportedPath": "02-编程语言/01-java/06-jvm/00-总览.html",
+      "dependencies": [
+        "02-编程语言/01-java/06-jvm/assets/类加载过程.png"
+      ]
+    },
+    "02-编程语言/01-JAVA/06-jvm/000-medium.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 24944,
+      "exportedPath": "02-编程语言/01-java/06-jvm/000-medium.html",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/06-jvm/0001.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 26388,
+      "exportedPath": "02-编程语言/01-java/06-jvm/0001.html",
+      "dependencies": [
+        "02-编程语言/01-java/06-jvm/assets/1722924406-738ffdb470d9c0e5edb8e2c7e20a60be.webp"
+      ]
+    },
+    "02-编程语言/01-JAVA/06-jvm/01-JVM启动参数.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 1426,
+      "exportedPath": "02-编程语言/01-java/06-jvm/01-jvm启动参数.html",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/06-jvm/02-内存分配.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 26,
+      "exportedPath": "02-编程语言/01-java/06-jvm/02-内存分配.html",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/06-jvm/03-垃圾回收.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 26,
+      "exportedPath": "02-编程语言/01-java/06-jvm/03-垃圾回收.html",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/06-jvm/04-类加载机制.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 26,
+      "exportedPath": "02-编程语言/01-java/06-jvm/04-类加载机制.html",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/06-jvm/www.baidu.com.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 0,
+      "exportedPath": "02-编程语言/01-java/06-jvm/www.baidu.com.html",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/99-实践/assets/Pasted image 20231128173911.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 66561,
+      "exportedPath": "02-编程语言/01-java/99-实践/assets/pasted-image-20231128173911.png",
+      "dependencies": []
+    },
+    "02-编程语言/01-JAVA/99-实践/01-附件预览(office转html).md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 563,
+      "exportedPath": "02-编程语言/01-java/99-实践/01-附件预览(office转html).html",
+      "dependencies": [
+        "02-编程语言/01-java/99-实践/assets/pasted-image-20231128173911.png"
+      ]
+    },
+    "02-编程语言/02-python/01-国内镜像.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 625,
+      "exportedPath": "02-编程语言/02-python/01-国内镜像.html",
+      "dependencies": []
+    },
+    "03-web/02-css/01-white-space.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 649,
+      "exportedPath": "03-web/02-css/01-white-space.html",
+      "dependencies": []
+    },
+    "03-web/03-javascript/01-ES6/01-class.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 9425,
+      "exportedPath": "03-web/03-javascript/01-es6/01-class.html",
+      "dependencies": []
+    },
+    "03-web/03-javascript/01-ES6/02-严格模式.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 1703,
+      "exportedPath": "03-web/03-javascript/01-es6/02-严格模式.html",
+      "dependencies": []
+    },
+    "03-web/03-javascript/01-ES6/03-数组.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 5214,
+      "exportedPath": "03-web/03-javascript/01-es6/03-数组.html",
+      "dependencies": []
+    },
+    "03-web/03-javascript/02-深拷贝.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 99,
+      "exportedPath": "03-web/03-javascript/02-深拷贝.html",
+      "dependencies": []
+    },
+    "03-web/04-浏览器/01-chrome/assets/snippet.jpg": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 90867,
+      "exportedPath": "03-web/04-浏览器/01-chrome/assets/snippet.jpg",
+      "dependencies": []
+    },
+    "03-web/04-浏览器/01-chrome/01-devtool.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 609,
+      "exportedPath": "03-web/04-浏览器/01-chrome/01-devtool.html",
+      "dependencies": [
+        "03-web/04-浏览器/01-chrome/assets/snippet.jpg"
+      ]
+    },
+    "03-web/04-浏览器/02-浏览器插件/assets/测试.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 43483,
+      "exportedPath": "03-web/04-浏览器/02-浏览器插件/assets/测试.png",
+      "dependencies": []
+    },
+    "03-web/04-浏览器/02-浏览器插件/01-浏览器插件.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 829,
+      "exportedPath": "03-web/04-浏览器/02-浏览器插件/01-浏览器插件.html",
+      "dependencies": [
+        "03-web/04-浏览器/02-浏览器插件/assets/测试.png"
+      ]
+    },
+    "03-web/99-开发工具/assets/1693201684-2fd40a70aafe1a9a9924a62ca3044418.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 128855,
+      "exportedPath": "03-web/99-开发工具/assets/1693201684-2fd40a70aafe1a9a9924a62ca3044418.png",
+      "dependencies": []
+    },
+    "03-web/99-开发工具/assets/1693201684-4e9f36060b2c5a140ed8fd4818667139.gif": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 127463,
+      "exportedPath": "03-web/99-开发工具/assets/1693201684-4e9f36060b2c5a140ed8fd4818667139.gif",
+      "dependencies": []
+    },
+    "03-web/99-开发工具/assets/1693201684-5a87e52af4add188ce50c51304bcd851.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 224136,
+      "exportedPath": "03-web/99-开发工具/assets/1693201684-5a87e52af4add188ce50c51304bcd851.png",
+      "dependencies": []
+    },
+    "03-web/99-开发工具/assets/1693201684-6d40e135a8f34f3b6695350d09492ec1.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 323271,
+      "exportedPath": "03-web/99-开发工具/assets/1693201684-6d40e135a8f34f3b6695350d09492ec1.png",
+      "dependencies": []
+    },
+    "03-web/99-开发工具/assets/1693201684-7b47aa60a1c602b4a4f79599a8f23da8.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 238431,
+      "exportedPath": "03-web/99-开发工具/assets/1693201684-7b47aa60a1c602b4a4f79599a8f23da8.png",
+      "dependencies": []
+    },
+    "03-web/99-开发工具/assets/1693201684-8d74cc452b7bd10cd89acd3258d02fab.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 564562,
+      "exportedPath": "03-web/99-开发工具/assets/1693201684-8d74cc452b7bd10cd89acd3258d02fab.png",
+      "dependencies": []
+    },
+    "03-web/99-开发工具/assets/1693201684-34b7e53441c1bca0c9142e8fa16eba43.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 98664,
+      "exportedPath": "03-web/99-开发工具/assets/1693201684-34b7e53441c1bca0c9142e8fa16eba43.png",
+      "dependencies": []
+    },
+    "03-web/99-开发工具/assets/1693201684-40dafffaeb286b3c62c02019aa42874b.gif": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 1247425,
+      "exportedPath": "03-web/99-开发工具/assets/1693201684-40dafffaeb286b3c62c02019aa42874b.gif",
+      "dependencies": []
+    },
+    "03-web/99-开发工具/assets/1693201684-88fe52f7a585d783c803df54dabba948.gif": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 2008250,
+      "exportedPath": "03-web/99-开发工具/assets/1693201684-88fe52f7a585d783c803df54dabba948.gif",
+      "dependencies": []
+    },
+    "03-web/99-开发工具/assets/1693201684-8685e373eabebe388c074da38a39e138.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 236314,
+      "exportedPath": "03-web/99-开发工具/assets/1693201684-8685e373eabebe388c074da38a39e138.png",
+      "dependencies": []
+    },
+    "03-web/99-开发工具/assets/1693201684-38285b7ce42dcfaf22bacfaf0310911d.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 105942,
+      "exportedPath": "03-web/99-开发工具/assets/1693201684-38285b7ce42dcfaf22bacfaf0310911d.png",
+      "dependencies": []
+    },
+    "03-web/99-开发工具/assets/1693201684-94948ed124733e652ee3052c24c47287.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 245730,
+      "exportedPath": "03-web/99-开发工具/assets/1693201684-94948ed124733e652ee3052c24c47287.png",
+      "dependencies": []
+    },
+    "03-web/99-开发工具/assets/1693201684-a7829c40aa993d72e16d4a41f60433dd.gif": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 136333,
+      "exportedPath": "03-web/99-开发工具/assets/1693201684-a7829c40aa993d72e16d4a41f60433dd.gif",
+      "dependencies": []
+    },
+    "03-web/99-开发工具/assets/1693201684-a0531151f0e73bf13778f415d7147d58.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 237528,
+      "exportedPath": "03-web/99-开发工具/assets/1693201684-a0531151f0e73bf13778f415d7147d58.png",
+      "dependencies": []
+    },
+    "03-web/99-开发工具/assets/1693201684-b87ba7fdfae5b9ee3ddb3e4b4a66d7ef.gif": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 219504,
+      "exportedPath": "03-web/99-开发工具/assets/1693201684-b87ba7fdfae5b9ee3ddb3e4b4a66d7ef.gif",
+      "dependencies": []
+    },
+    "03-web/99-开发工具/assets/1693201684-bd97dbf4ad83cb6ed5bb4bf9f1d2fcde.gif": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 452320,
+      "exportedPath": "03-web/99-开发工具/assets/1693201684-bd97dbf4ad83cb6ed5bb4bf9f1d2fcde.gif",
+      "dependencies": []
+    },
+    "03-web/99-开发工具/assets/1693201684-c784233da02663b5401ef678b9b3fb90.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 153154,
+      "exportedPath": "03-web/99-开发工具/assets/1693201684-c784233da02663b5401ef678b9b3fb90.png",
+      "dependencies": []
+    },
+    "03-web/99-开发工具/assets/1693201684-d57c3f00aa531c513f38a22707f5bdd6.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 198698,
+      "exportedPath": "03-web/99-开发工具/assets/1693201684-d57c3f00aa531c513f38a22707f5bdd6.png",
+      "dependencies": []
+    },
+    "03-web/99-开发工具/assets/1693201684-db1828f7f4f2f81f5d0407877da92d29.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 156243,
+      "exportedPath": "03-web/99-开发工具/assets/1693201684-db1828f7f4f2f81f5d0407877da92d29.png",
+      "dependencies": []
+    },
+    "03-web/99-开发工具/01-vscode和webstorm.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 22131,
+      "exportedPath": "03-web/99-开发工具/01-vscode和webstorm.html",
+      "dependencies": [
+        "03-web/99-开发工具/assets/1693201684-d57c3f00aa531c513f38a22707f5bdd6.png",
+        "03-web/99-开发工具/assets/1693201684-db1828f7f4f2f81f5d0407877da92d29.png",
+        "03-web/99-开发工具/assets/1693201684-7b47aa60a1c602b4a4f79599a8f23da8.png",
+        "03-web/99-开发工具/assets/1693201684-34b7e53441c1bca0c9142e8fa16eba43.png",
+        "03-web/99-开发工具/assets/1693201684-8d74cc452b7bd10cd89acd3258d02fab.png",
+        "03-web/99-开发工具/assets/1693201684-bd97dbf4ad83cb6ed5bb4bf9f1d2fcde.gif",
+        "03-web/99-开发工具/assets/1693201684-4e9f36060b2c5a140ed8fd4818667139.gif",
+        "03-web/99-开发工具/assets/1693201684-a7829c40aa993d72e16d4a41f60433dd.gif",
+        "03-web/99-开发工具/assets/1693201684-b87ba7fdfae5b9ee3ddb3e4b4a66d7ef.gif",
+        "03-web/99-开发工具/assets/1693201684-c784233da02663b5401ef678b9b3fb90.png",
+        "03-web/99-开发工具/assets/1693201684-8685e373eabebe388c074da38a39e138.png",
+        "03-web/99-开发工具/assets/1693201684-88fe52f7a585d783c803df54dabba948.gif",
+        "03-web/99-开发工具/assets/1693201684-40dafffaeb286b3c62c02019aa42874b.gif",
+        "03-web/99-开发工具/assets/1693201684-6d40e135a8f34f3b6695350d09492ec1.png",
+        "03-web/99-开发工具/assets/1693201684-a0531151f0e73bf13778f415d7147d58.png",
+        "03-web/99-开发工具/assets/1693201684-5a87e52af4add188ce50c51304bcd851.png",
+        "03-web/99-开发工具/assets/1693201684-94948ed124733e652ee3052c24c47287.png",
+        "03-web/99-开发工具/assets/1693201684-2fd40a70aafe1a9a9924a62ca3044418.png",
+        "03-web/99-开发工具/assets/1693201684-38285b7ce42dcfaf22bacfaf0310911d.png"
+      ]
+    },
+    "04-数据库/01-mysql/assets/b+树.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 38749,
+      "exportedPath": "04-数据库/01-mysql/assets/b+树.png",
+      "dependencies": []
+    },
+    "04-数据库/01-mysql/assets/B树.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 43072,
+      "exportedPath": "04-数据库/01-mysql/assets/b树.png",
+      "dependencies": []
+    },
+    "04-数据库/01-mysql/assets/Pasted image 20230305192751.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 114068,
+      "exportedPath": "04-数据库/01-mysql/assets/pasted-image-20230305192751.png",
+      "dependencies": []
+    },
+    "04-数据库/01-mysql/assets/Pasted image 20230305192814.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 129711,
+      "exportedPath": "04-数据库/01-mysql/assets/pasted-image-20230305192814.png",
+      "dependencies": []
+    },
+    "04-数据库/01-mysql/assets/Pasted image 20230305192831.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 117657,
+      "exportedPath": "04-数据库/01-mysql/assets/pasted-image-20230305192831.png",
+      "dependencies": []
+    },
+    "04-数据库/01-mysql/assets/Pasted image 20230307181039.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 30271,
+      "exportedPath": "04-数据库/01-mysql/assets/pasted-image-20230307181039.png",
+      "dependencies": []
+    },
+    "04-数据库/01-mysql/assets/Pasted image 20230308081514.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 23750,
+      "exportedPath": "04-数据库/01-mysql/assets/pasted-image-20230308081514.png",
+      "dependencies": []
+    },
+    "04-数据库/01-mysql/assets/Pasted image 20230308081545.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 10506,
+      "exportedPath": "04-数据库/01-mysql/assets/pasted-image-20230308081545.png",
+      "dependencies": []
+    },
+    "04-数据库/01-mysql/01-索引.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 7489,
+      "exportedPath": "04-数据库/01-mysql/01-索引.html",
+      "dependencies": []
+    },
+    "04-数据库/01-mysql/01-索引结构.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 791,
+      "exportedPath": "04-数据库/01-mysql/01-索引结构.html",
+      "dependencies": [
+        "04-数据库/01-mysql/assets/b树.png",
+        "04-数据库/01-mysql/assets/b+树.png"
+      ]
+    },
+    "04-数据库/01-mysql/02-慢sql,锁表问题.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 7738,
+      "exportedPath": "04-数据库/01-mysql/02-慢sql,锁表问题.html",
+      "dependencies": []
+    },
+    "04-数据库/01-mysql/03-事务.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 1992,
+      "exportedPath": "04-数据库/01-mysql/03-事务.html",
+      "dependencies": [
+        "04-数据库/01-mysql/assets/pasted-image-20230305192751.png",
+        "04-数据库/01-mysql/assets/pasted-image-20230305192814.png",
+        "04-数据库/01-mysql/assets/pasted-image-20230305192831.png"
+      ]
+    },
+    "04-数据库/01-mysql/04-索引失效场景.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 3941,
+      "exportedPath": "04-数据库/01-mysql/04-索引失效场景.html",
+      "dependencies": [
+        "04-数据库/01-mysql/assets/pasted-image-20230307181039.png",
+        "04-数据库/01-mysql/assets/pasted-image-20230308081514.png",
+        "04-数据库/01-mysql/assets/pasted-image-20230308081545.png"
+      ]
+    },
+    "04-数据库/01-mysql/05-读写分离.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 2191,
+      "exportedPath": "04-数据库/01-mysql/05-读写分离.html",
+      "dependencies": []
+    },
+    "04-数据库/02-oracle/01-基本概念.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 45,
+      "exportedPath": "04-数据库/02-oracle/01-基本概念.html",
+      "dependencies": []
+    },
+    "04-数据库/02-oracle/02-头表主表.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 2220,
+      "exportedPath": "04-数据库/02-oracle/02-头表主表.html",
+      "dependencies": []
+    },
+    "04-数据库/02-oracle/98-oracle对特殊字符的处理的坑.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 306,
+      "exportedPath": "04-数据库/02-oracle/98-oracle对特殊字符的处理的坑.html",
+      "dependencies": []
+    },
+    "04-数据库/02-oracle/99-批量执行sql脚本.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 234,
+      "exportedPath": "04-数据库/02-oracle/99-批量执行sql脚本.html",
+      "dependencies": []
+    },
+    "04-数据库/03-分布式数据库/01-sharding-sphere/00-概览.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 87,
+      "exportedPath": "04-数据库/03-分布式数据库/01-sharding-sphere/00-概览.html",
+      "dependencies": []
+    },
+    "04-数据库/04-迁移工具/01-flyway.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 1986,
+      "exportedPath": "04-数据库/04-迁移工具/01-flyway.html",
+      "dependencies": []
+    },
+    "05-中间件/01-es/assets/倒排索引简化过程.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 585752,
+      "exportedPath": "05-中间件/01-es/assets/倒排索引简化过程.png",
+      "dependencies": []
+    },
+    "05-中间件/01-es/assets/相关度.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 667025,
+      "exportedPath": "05-中间件/01-es/assets/相关度.png",
+      "dependencies": []
+    },
+    "05-中间件/01-es/assets/自动映射.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 190039,
+      "exportedPath": "05-中间件/01-es/assets/自动映射.png",
+      "dependencies": []
+    },
+    "05-中间件/01-es/01-es基本概念.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 4442,
+      "exportedPath": "05-中间件/01-es/01-es基本概念.html",
+      "dependencies": [
+        "05-中间件/01-es/assets/自动映射.png",
+        "05-中间件/01-es/assets/倒排索引简化过程.png",
+        "05-中间件/01-es/assets/相关度.png"
+      ]
+    },
+    "05-中间件/02-mq/01-rocketmq/assets/延迟队列名称.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 27166,
+      "exportedPath": "05-中间件/02-mq/01-rocketmq/assets/延迟队列名称.png",
+      "dependencies": []
+    },
+    "05-中间件/02-mq/01-rocketmq/assets/延迟消息在Broker中流转图.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 45405,
+      "exportedPath": "05-中间件/02-mq/01-rocketmq/assets/延迟消息在broker中流转图.png",
+      "dependencies": []
+    },
+    "05-中间件/02-mq/01-rocketmq/assets/rocketmq架构图.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 70185,
+      "exportedPath": "05-中间件/02-mq/01-rocketmq/assets/rocketmq架构图.png",
+      "dependencies": []
+    },
+    "05-中间件/02-mq/01-rocketmq/assets/rocketmq模型关系图.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 114500,
+      "exportedPath": "05-中间件/02-mq/01-rocketmq/assets/rocketmq模型关系图.png",
+      "dependencies": []
+    },
+    "05-中间件/02-mq/01-rocketmq/00-rocketmq基本使用.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 1832,
+      "exportedPath": "05-中间件/02-mq/01-rocketmq/00-rocketmq基本使用.html",
+      "dependencies": []
+    },
+    "05-中间件/02-mq/01-rocketmq/01-rocketmq-学习.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 14091,
+      "exportedPath": "05-中间件/02-mq/01-rocketmq/01-rocketmq-学习.html",
+      "dependencies": [
+        "05-中间件/02-mq/01-rocketmq/assets/rocketmq模型关系图.png",
+        "05-中间件/02-mq/01-rocketmq/assets/rocketmq架构图.png"
+      ]
+    },
+    "05-中间件/02-mq/01-rocketmq/02-事务消息.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 159,
+      "exportedPath": "05-中间件/02-mq/01-rocketmq/02-事务消息.html",
+      "dependencies": []
+    },
+    "05-中间件/02-mq/01-rocketmq/03-延迟消息.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 4121,
+      "exportedPath": "05-中间件/02-mq/01-rocketmq/03-延迟消息.html",
+      "dependencies": [
+        "05-中间件/02-mq/01-rocketmq/assets/延迟队列名称.png",
+        "05-中间件/02-mq/01-rocketmq/assets/延迟消息在broker中流转图.png"
+      ]
+    },
+    "05-中间件/03-redis/assets/布隆过滤器.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 85438,
+      "exportedPath": "05-中间件/03-redis/assets/布隆过滤器.png",
+      "dependencies": []
+    },
+    "05-中间件/03-redis/assets/缓存穿透.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 93013,
+      "exportedPath": "05-中间件/03-redis/assets/缓存穿透.png",
+      "dependencies": []
+    },
+    "05-中间件/03-redis/assets/缓存击穿.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 206877,
+      "exportedPath": "05-中间件/03-redis/assets/缓存击穿.png",
+      "dependencies": []
+    },
+    "05-中间件/03-redis/assets/redis主从同步机制.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 81051,
+      "exportedPath": "05-中间件/03-redis/assets/redis主从同步机制.png",
+      "dependencies": []
+    },
+    "05-中间件/03-redis/assets/Redisson底层原理图.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 374100,
+      "exportedPath": "05-中间件/03-redis/assets/redisson底层原理图.png",
+      "dependencies": []
+    },
+    "05-中间件/03-redis/assets/RedLock,集群部署示意图.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 254046,
+      "exportedPath": "05-中间件/03-redis/assets/redlock,集群部署示意图.png",
+      "dependencies": []
+    },
+    "05-中间件/03-redis/03-分布式锁.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 4013,
+      "exportedPath": "05-中间件/03-redis/03-分布式锁.html",
+      "dependencies": [
+        "05-中间件/03-redis/assets/redisson底层原理图.png",
+        "05-中间件/03-redis/assets/redlock,集群部署示意图.png"
+      ]
+    },
+    "05-中间件/03-redis/04-缓存击穿(失效)，穿透，雪崩.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 3779,
+      "exportedPath": "05-中间件/03-redis/04-缓存击穿(失效)，穿透，雪崩.html",
+      "dependencies": [
+        "05-中间件/03-redis/assets/缓存击穿.png",
+        "05-中间件/03-redis/assets/缓存穿透.png",
+        "05-中间件/03-redis/assets/布隆过滤器.png"
+      ]
+    },
+    "05-中间件/03-redis/05-redis持久化.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 9526,
+      "exportedPath": "05-中间件/03-redis/05-redis持久化.html",
+      "dependencies": [
+        "05-中间件/03-redis/assets/redis主从同步机制.png"
+      ]
+    },
+    "06-分布式架构/01-微服务/01-微服务划分依据.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 1107,
+      "exportedPath": "06-分布式架构/01-微服务/01-微服务划分依据.html",
+      "dependencies": []
+    },
+    "06-分布式架构/01-微服务/03-负载均衡.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 2890,
+      "exportedPath": "06-分布式架构/01-微服务/03-负载均衡.html",
+      "dependencies": []
+    },
+    "06-分布式架构/01-微服务/04-DDD.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 251,
+      "exportedPath": "06-分布式架构/01-微服务/04-ddd.html",
+      "dependencies": []
+    },
+    "06-分布式架构/99-雪花id.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 109,
+      "exportedPath": "06-分布式架构/99-雪花id.html",
+      "dependencies": []
+    },
+    "07-工具/01-anki/assets/1717397688-1e2d4ea3949cad2b85d4b9562d2b58de.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 485750,
+      "exportedPath": "07-工具/01-anki/assets/1717397688-1e2d4ea3949cad2b85d4b9562d2b58de.png",
+      "dependencies": []
+    },
+    "07-工具/01-anki/assets/1717397688-2c8e504bbad5d1be2688c7a9bd380bd0.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 485643,
+      "exportedPath": "07-工具/01-anki/assets/1717397688-2c8e504bbad5d1be2688c7a9bd380bd0.png",
+      "dependencies": []
+    },
+    "07-工具/01-anki/assets/1717397688-2f4ae5c259a08f7374914afa0c4e7106.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 172221,
+      "exportedPath": "07-工具/01-anki/assets/1717397688-2f4ae5c259a08f7374914afa0c4e7106.png",
+      "dependencies": []
+    },
+    "07-工具/01-anki/assets/1717397688-3ea7383be73bd826eda39271d0a663ce.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 229376,
+      "exportedPath": "07-工具/01-anki/assets/1717397688-3ea7383be73bd826eda39271d0a663ce.png",
+      "dependencies": []
+    },
+    "07-工具/01-anki/assets/1717397688-04ca8aef0e58ce3081d43b0ddf09bcee.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 171674,
+      "exportedPath": "07-工具/01-anki/assets/1717397688-04ca8aef0e58ce3081d43b0ddf09bcee.png",
+      "dependencies": []
+    },
+    "07-工具/01-anki/assets/1717397688-5db8cc46714f3286e5f701f4b2044c61.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 153376,
+      "exportedPath": "07-工具/01-anki/assets/1717397688-5db8cc46714f3286e5f701f4b2044c61.png",
+      "dependencies": []
+    },
+    "07-工具/01-anki/assets/1717397688-6e21b3df6d0dd1ec1a5a39c1a83878c6.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 318834,
+      "exportedPath": "07-工具/01-anki/assets/1717397688-6e21b3df6d0dd1ec1a5a39c1a83878c6.png",
+      "dependencies": []
+    },
+    "07-工具/01-anki/assets/1717397688-6e301ebac9e244a352e54d8b85a144b2.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 179476,
+      "exportedPath": "07-工具/01-anki/assets/1717397688-6e301ebac9e244a352e54d8b85a144b2.png",
+      "dependencies": []
+    },
+    "07-工具/01-anki/assets/1717397688-7e107db69277134097fa8e7cde5d1c8c.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 178041,
+      "exportedPath": "07-工具/01-anki/assets/1717397688-7e107db69277134097fa8e7cde5d1c8c.png",
+      "dependencies": []
+    },
+    "07-工具/01-anki/assets/1717397688-20c230f972d6756d40418283cdc077cd.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 158405,
+      "exportedPath": "07-工具/01-anki/assets/1717397688-20c230f972d6756d40418283cdc077cd.png",
+      "dependencies": []
+    },
+    "07-工具/01-anki/assets/1717397688-49dfb7a4a4d01a55674a0f98d99d9b4a.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 703921,
+      "exportedPath": "07-工具/01-anki/assets/1717397688-49dfb7a4a4d01a55674a0f98d99d9b4a.png",
+      "dependencies": []
+    },
+    "07-工具/01-anki/assets/1717397688-85f340b40c298e4c8345e373be32ebf5.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 158157,
+      "exportedPath": "07-工具/01-anki/assets/1717397688-85f340b40c298e4c8345e373be32ebf5.png",
+      "dependencies": []
+    },
+    "07-工具/01-anki/assets/1717397688-88de0f949cb26ae6b3f5b4fb788bd385.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 201208,
+      "exportedPath": "07-工具/01-anki/assets/1717397688-88de0f949cb26ae6b3f5b4fb788bd385.png",
+      "dependencies": []
+    },
+    "07-工具/01-anki/assets/1717397688-282ff59d954bebfd18ea4215aac9ac05.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 157620,
+      "exportedPath": "07-工具/01-anki/assets/1717397688-282ff59d954bebfd18ea4215aac9ac05.png",
+      "dependencies": []
+    },
+    "07-工具/01-anki/assets/1717397688-418b0b8c7330c963246839f511a776e9.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 182087,
+      "exportedPath": "07-工具/01-anki/assets/1717397688-418b0b8c7330c963246839f511a776e9.png",
+      "dependencies": []
+    },
+    "07-工具/01-anki/assets/1717397688-684e02eb1729609b970c5af1148fdbce.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 152611,
+      "exportedPath": "07-工具/01-anki/assets/1717397688-684e02eb1729609b970c5af1148fdbce.png",
+      "dependencies": []
+    },
+    "07-工具/01-anki/assets/1717397688-07656dac644a88a8d706ca0e30d58392.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 376739,
+      "exportedPath": "07-工具/01-anki/assets/1717397688-07656dac644a88a8d706ca0e30d58392.png",
+      "dependencies": []
+    },
+    "07-工具/01-anki/assets/1717397688-51273cf9215af882a5452dacf4ea3eaa.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 257610,
+      "exportedPath": "07-工具/01-anki/assets/1717397688-51273cf9215af882a5452dacf4ea3eaa.png",
+      "dependencies": []
+    },
+    "07-工具/01-anki/assets/1717397688-85768b66162bee61e8de1f9fb3f7d85a.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 187029,
+      "exportedPath": "07-工具/01-anki/assets/1717397688-85768b66162bee61e8de1f9fb3f7d85a.png",
+      "dependencies": []
+    },
+    "07-工具/01-anki/assets/1717397688-1426711041569c9a252fdcb09ce5bab1.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 161138,
+      "exportedPath": "07-工具/01-anki/assets/1717397688-1426711041569c9a252fdcb09ce5bab1.png",
+      "dependencies": []
+    },
+    "07-工具/01-anki/assets/1717397688-7941436258054c1a3b0219860e550ebc.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 450178,
+      "exportedPath": "07-工具/01-anki/assets/1717397688-7941436258054c1a3b0219860e550ebc.png",
+      "dependencies": []
+    },
+    "07-工具/01-anki/assets/1717397688-a43b7bdff1db09c3a26d427ca47ca7f9.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 173200,
+      "exportedPath": "07-工具/01-anki/assets/1717397688-a43b7bdff1db09c3a26d427ca47ca7f9.png",
+      "dependencies": []
+    },
+    "07-工具/01-anki/assets/1717397688-ce7ac0d886c9bf0f4a59100cfcfb5af9.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 165753,
+      "exportedPath": "07-工具/01-anki/assets/1717397688-ce7ac0d886c9bf0f4a59100cfcfb5af9.png",
+      "dependencies": []
+    },
+    "07-工具/01-anki/assets/1717397688-f525113dd1bea067017fba327b3000e2.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 140555,
+      "exportedPath": "07-工具/01-anki/assets/1717397688-f525113dd1bea067017fba327b3000e2.png",
+      "dependencies": []
+    },
+    "07-工具/01-anki/01-anki基本使用.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 39,
+      "exportedPath": "07-工具/01-anki/01-anki基本使用.html",
+      "dependencies": []
+    },
+    "07-工具/01-anki/02-anki新手教程（剪藏）.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 18111,
+      "exportedPath": "07-工具/01-anki/02-anki新手教程（剪藏）.html",
+      "dependencies": [
+        "07-工具/01-anki/assets/1717397688-ce7ac0d886c9bf0f4a59100cfcfb5af9.png",
+        "07-工具/01-anki/assets/1717397688-2f4ae5c259a08f7374914afa0c4e7106.png",
+        "07-工具/01-anki/assets/1717397688-282ff59d954bebfd18ea4215aac9ac05.png",
+        "07-工具/01-anki/assets/1717397688-85f340b40c298e4c8345e373be32ebf5.png",
+        "07-工具/01-anki/assets/1717397688-a43b7bdff1db09c3a26d427ca47ca7f9.png",
+        "07-工具/01-anki/assets/1717397688-6e21b3df6d0dd1ec1a5a39c1a83878c6.png",
+        "07-工具/01-anki/assets/1717397688-f525113dd1bea067017fba327b3000e2.png",
+        "07-工具/01-anki/assets/1717397688-1426711041569c9a252fdcb09ce5bab1.png",
+        "07-工具/01-anki/assets/1717397688-5db8cc46714f3286e5f701f4b2044c61.png",
+        "07-工具/01-anki/assets/1717397688-04ca8aef0e58ce3081d43b0ddf09bcee.png",
+        "07-工具/01-anki/assets/1717397688-07656dac644a88a8d706ca0e30d58392.png",
+        "07-工具/01-anki/assets/1717397688-85768b66162bee61e8de1f9fb3f7d85a.png",
+        "07-工具/01-anki/assets/1717397688-20c230f972d6756d40418283cdc077cd.png",
+        "07-工具/01-anki/assets/1717397688-7e107db69277134097fa8e7cde5d1c8c.png",
+        "07-工具/01-anki/assets/1717397688-6e301ebac9e244a352e54d8b85a144b2.png",
+        "07-工具/01-anki/assets/1717397688-49dfb7a4a4d01a55674a0f98d99d9b4a.png",
+        "07-工具/01-anki/assets/1717397688-418b0b8c7330c963246839f511a776e9.png",
+        "07-工具/01-anki/assets/1717397688-684e02eb1729609b970c5af1148fdbce.png",
+        "07-工具/01-anki/assets/1717397688-88de0f949cb26ae6b3f5b4fb788bd385.png",
+        "07-工具/01-anki/assets/1717397688-51273cf9215af882a5452dacf4ea3eaa.png",
+        "07-工具/01-anki/assets/1717397688-1e2d4ea3949cad2b85d4b9562d2b58de.png",
+        "07-工具/01-anki/assets/1717397688-3ea7383be73bd826eda39271d0a663ce.png",
+        "07-工具/01-anki/assets/1717397688-2c8e504bbad5d1be2688c7a9bd380bd0.png",
+        "07-工具/01-anki/assets/1717397688-7941436258054c1a3b0219860e550ebc.png"
+      ]
+    },
+    "07-工具/02-git/01-gitIgnore.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 306,
+      "exportedPath": "07-工具/02-git/01-gitignore.html",
+      "dependencies": []
+    },
+    "07-工具/03-SSH/01-阮一峰SSH/01-基本知识.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 3648,
+      "exportedPath": "07-工具/03-ssh/01-阮一峰ssh/01-基本知识.html",
+      "dependencies": []
+    },
+    "07-工具/03-SSH/01-阮一峰SSH/02-SSH客户端.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 20367,
+      "exportedPath": "07-工具/03-ssh/01-阮一峰ssh/02-ssh客户端.html",
+      "dependencies": []
+    },
+    "07-工具/03-SSH/02-常用脚本.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 918,
+      "exportedPath": "07-工具/03-ssh/02-常用脚本.html",
+      "dependencies": []
+    },
+    "92-网络/01-socket/assets/1693361554-0fa75c26f126e664b5e3dabe0e991509.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 229997,
+      "exportedPath": "92-网络/01-socket/assets/1693361554-0fa75c26f126e664b5e3dabe0e991509.png",
+      "dependencies": []
+    },
+    "92-网络/01-socket/assets/1693361554-4cd1812e7b295c356e7de2c2839c00b1.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 77701,
+      "exportedPath": "92-网络/01-socket/assets/1693361554-4cd1812e7b295c356e7de2c2839c00b1.png",
+      "dependencies": []
+    },
+    "92-网络/01-socket/assets/1693361554-5dfa2adb42013e831d8342195a132c5b.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 107818,
+      "exportedPath": "92-网络/01-socket/assets/1693361554-5dfa2adb42013e831d8342195a132c5b.png",
+      "dependencies": []
+    },
+    "92-网络/01-socket/assets/1693361554-7eb236a18f239ffc3e0c6859bd0c3cb1.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 58164,
+      "exportedPath": "92-网络/01-socket/assets/1693361554-7eb236a18f239ffc3e0c6859bd0c3cb1.png",
+      "dependencies": []
+    },
+    "92-网络/01-socket/assets/1693361554-57ef451e77758dc6a7e5ea8b217e9dcf.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 170764,
+      "exportedPath": "92-网络/01-socket/assets/1693361554-57ef451e77758dc6a7e5ea8b217e9dcf.png",
+      "dependencies": []
+    },
+    "92-网络/01-socket/assets/1693361554-62ab9020cabd2e5a3a870cfa817eed48.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 21184,
+      "exportedPath": "92-网络/01-socket/assets/1693361554-62ab9020cabd2e5a3a870cfa817eed48.png",
+      "dependencies": []
+    },
+    "92-网络/01-socket/assets/1693361554-68a3ddadff54d1d05064d72cd8bbc565.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 7164,
+      "exportedPath": "92-网络/01-socket/assets/1693361554-68a3ddadff54d1d05064d72cd8bbc565.png",
+      "dependencies": []
+    },
+    "92-网络/01-socket/assets/1693361554-636a5a0509ea56f54607ee2eb61e2efc.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 6985,
+      "exportedPath": "92-网络/01-socket/assets/1693361554-636a5a0509ea56f54607ee2eb61e2efc.png",
+      "dependencies": []
+    },
+    "92-网络/01-socket/assets/1693361554-684b82e88a96207b0ee48d8b4efbfff5.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 15988,
+      "exportedPath": "92-网络/01-socket/assets/1693361554-684b82e88a96207b0ee48d8b4efbfff5.png",
+      "dependencies": []
+    },
+    "92-网络/01-socket/assets/1693361554-2098a9e73a252dad253ea907b50a6a43.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 22555,
+      "exportedPath": "92-网络/01-socket/assets/1693361554-2098a9e73a252dad253ea907b50a6a43.png",
+      "dependencies": []
+    },
+    "92-网络/01-socket/assets/1693361554-3839bc1d3d28f7e9672fcbedf9939250.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 32613,
+      "exportedPath": "92-网络/01-socket/assets/1693361554-3839bc1d3d28f7e9672fcbedf9939250.png",
+      "dependencies": []
+    },
+    "92-网络/01-socket/assets/1693361554-5498f96527773c3fe4caa572be2f2fc9.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 25086,
+      "exportedPath": "92-网络/01-socket/assets/1693361554-5498f96527773c3fe4caa572be2f2fc9.png",
+      "dependencies": []
+    },
+    "92-网络/01-socket/assets/1693361554-6638b0bd281355a618ca20d936c024d9.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 42857,
+      "exportedPath": "92-网络/01-socket/assets/1693361554-6638b0bd281355a618ca20d936c024d9.png",
+      "dependencies": []
+    },
+    "92-网络/01-socket/assets/1693361554-64802c64d55294b53ddd3c64c370690c.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 16906,
+      "exportedPath": "92-网络/01-socket/assets/1693361554-64802c64d55294b53ddd3c64c370690c.png",
+      "dependencies": []
+    },
+    "92-网络/01-socket/assets/1693361554-6550050fb9eb117fa6657c3bb4e09d72.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 122337,
+      "exportedPath": "92-网络/01-socket/assets/1693361554-6550050fb9eb117fa6657c3bb4e09d72.png",
+      "dependencies": []
+    },
+    "92-网络/01-socket/assets/1693361554-503725735ef01af3573a5e3382ab68ae.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 28359,
+      "exportedPath": "92-网络/01-socket/assets/1693361554-503725735ef01af3573a5e3382ab68ae.png",
+      "dependencies": []
+    },
+    "92-网络/01-socket/assets/1693361554-276502279600c27f1481a0e37abbd1a0.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 19583,
+      "exportedPath": "92-网络/01-socket/assets/1693361554-276502279600c27f1481a0e37abbd1a0.png",
+      "dependencies": []
+    },
+    "92-网络/01-socket/assets/1693361554-a2a37e3f07be51d5e4553fea4ad6d749.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 8574,
+      "exportedPath": "92-网络/01-socket/assets/1693361554-a2a37e3f07be51d5e4553fea4ad6d749.png",
+      "dependencies": []
+    },
+    "92-网络/01-socket/assets/1693361554-c0c2572e19abcfdb51ed72d7d8c7f16e.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 8303,
+      "exportedPath": "92-网络/01-socket/assets/1693361554-c0c2572e19abcfdb51ed72d7d8c7f16e.png",
+      "dependencies": []
+    },
+    "92-网络/01-socket/assets/1693361554-da28feac4d26a3f0c6a5fb1728da184d.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 51680,
+      "exportedPath": "92-网络/01-socket/assets/1693361554-da28feac4d26a3f0c6a5fb1728da184d.png",
+      "dependencies": []
+    },
+    "92-网络/01-socket/assets/1693361554-e22c5fe88affe8fd0e98dd9c860f4d22.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 55250,
+      "exportedPath": "92-网络/01-socket/assets/1693361554-e22c5fe88affe8fd0e98dd9c860f4d22.png",
+      "dependencies": []
+    },
+    "92-网络/01-socket/01-剪藏-socket.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 12020,
+      "exportedPath": "92-网络/01-socket/01-剪藏-socket.html",
+      "dependencies": [
+        "92-网络/01-socket/assets/1693361554-6550050fb9eb117fa6657c3bb4e09d72.png",
+        "92-网络/01-socket/assets/1693361554-503725735ef01af3573a5e3382ab68ae.png",
+        "92-网络/01-socket/assets/1693361554-62ab9020cabd2e5a3a870cfa817eed48.png",
+        "92-网络/01-socket/assets/1693361554-684b82e88a96207b0ee48d8b4efbfff5.png",
+        "92-网络/01-socket/assets/1693361554-c0c2572e19abcfdb51ed72d7d8c7f16e.png",
+        "92-网络/01-socket/assets/1693361554-e22c5fe88affe8fd0e98dd9c860f4d22.png",
+        "92-网络/01-socket/assets/1693361554-6638b0bd281355a618ca20d936c024d9.png",
+        "92-网络/01-socket/assets/1693361554-a2a37e3f07be51d5e4553fea4ad6d749.png",
+        "92-网络/01-socket/assets/1693361554-636a5a0509ea56f54607ee2eb61e2efc.png",
+        "92-网络/01-socket/assets/1693361554-2098a9e73a252dad253ea907b50a6a43.png",
+        "92-网络/01-socket/assets/1693361554-68a3ddadff54d1d05064d72cd8bbc565.png",
+        "92-网络/01-socket/assets/1693361554-7eb236a18f239ffc3e0c6859bd0c3cb1.png",
+        "92-网络/01-socket/assets/1693361554-3839bc1d3d28f7e9672fcbedf9939250.png",
+        "92-网络/01-socket/assets/1693361554-64802c64d55294b53ddd3c64c370690c.png",
+        "92-网络/01-socket/assets/1693361554-4cd1812e7b295c356e7de2c2839c00b1.png",
+        "92-网络/01-socket/assets/1693361554-276502279600c27f1481a0e37abbd1a0.png",
+        "92-网络/01-socket/assets/1693361554-da28feac4d26a3f0c6a5fb1728da184d.png",
+        "92-网络/01-socket/assets/1693361554-57ef451e77758dc6a7e5ea8b217e9dcf.png",
+        "92-网络/01-socket/assets/1693361554-0fa75c26f126e664b5e3dabe0e991509.png",
+        "92-网络/01-socket/assets/1693361554-5dfa2adb42013e831d8342195a132c5b.png",
+        "92-网络/01-socket/assets/1693361554-5498f96527773c3fe4caa572be2f2fc9.png"
+      ]
+    },
+    "93-gpt/01-使用记录/20230717-职业规划.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 16764,
+      "exportedPath": "93-gpt/01-使用记录/20230717-职业规划.html",
+      "dependencies": []
+    },
+    "93-gpt/assets/拆解目标.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 63779,
+      "exportedPath": "93-gpt/assets/拆解目标.png",
+      "dependencies": []
+    },
+    "93-gpt/assets/疯狂搜索列表.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 67589,
+      "exportedPath": "93-gpt/assets/疯狂搜索列表.png",
+      "dependencies": []
+    },
+    "93-gpt/assets/附件预览-chat.jpg": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 404883,
+      "exportedPath": "93-gpt/assets/附件预览-chat.jpg",
+      "dependencies": []
+    },
+    "93-gpt/assets/开放性问题-chat1.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 52103,
+      "exportedPath": "93-gpt/assets/开放性问题-chat1.png",
+      "dependencies": []
+    },
+    "93-gpt/assets/开放性问题-chat2.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 56440,
+      "exportedPath": "93-gpt/assets/开放性问题-chat2.png",
+      "dependencies": []
+    },
+    "93-gpt/assets/使用对比.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 386980,
+      "exportedPath": "93-gpt/assets/使用对比.png",
+      "dependencies": []
+    },
+    "93-gpt/assets/autogpt-任务到指令.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 70089,
+      "exportedPath": "93-gpt/assets/autogpt-任务到指令.png",
+      "dependencies": []
+    },
+    "93-gpt/assets/autoGPT区别.svg": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 157192,
+      "exportedPath": "93-gpt/assets/autogpt区别.svg",
+      "dependencies": []
+    },
+    "93-gpt/assets/autoGPT总结.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 280799,
+      "exportedPath": "93-gpt/assets/autogpt总结.png",
+      "dependencies": []
+    },
+    "93-gpt/assets/autoGPTstar.svg": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 112351,
+      "exportedPath": "93-gpt/assets/autogptstar.svg",
+      "dependencies": []
+    },
+    "93-gpt/assets/forbes.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 86376,
+      "exportedPath": "93-gpt/assets/forbes.png",
+      "dependencies": []
+    },
+    "93-gpt/assets/topRichByAutoGPT.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 33308,
+      "exportedPath": "93-gpt/assets/toprichbyautogpt.png",
+      "dependencies": []
+    },
+    "93-gpt/assets/topRichByChatGPT.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 24925,
+      "exportedPath": "93-gpt/assets/toprichbychatgpt.png",
+      "dependencies": []
+    },
+    "93-gpt/autoGPT.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 6033,
+      "exportedPath": "93-gpt/autogpt.html",
+      "dependencies": [
+        "93-gpt/assets/autogpt区别.svg",
+        "93-gpt/assets/autogptstar.svg",
+        "93-gpt/assets/toprichbychatgpt.png",
+        "93-gpt/assets/拆解目标.png",
+        "93-gpt/assets/autogpt-任务到指令.png",
+        "93-gpt/assets/toprichbyautogpt.png",
+        "93-gpt/assets/forbes.png",
+        "93-gpt/assets/开放性问题-chat1.png",
+        "93-gpt/assets/开放性问题-chat2.png",
+        "93-gpt/assets/疯狂搜索列表.png",
+        "93-gpt/assets/附件预览-chat.jpg",
+        "93-gpt/assets/使用对比.png",
+        "93-gpt/assets/autogpt总结.png"
+      ]
+    },
+    "94-业务相关/01-财务系统/01-收单.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 1020,
+      "exportedPath": "94-业务相关/01-财务系统/01-收单.html",
+      "dependencies": []
+    },
+    "95-产线实践/01-慢接口.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 927,
+      "exportedPath": "95-产线实践/01-慢接口.html",
+      "dependencies": []
+    },
+    "96-计算机原理/01-操作系统/assets/ls-l一图解释.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 96616,
+      "exportedPath": "96-计算机原理/01-操作系统/assets/ls-l一图解释.png",
+      "dependencies": []
+    },
+    "96-计算机原理/01-操作系统/01-linux.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 1684,
+      "exportedPath": "96-计算机原理/01-操作系统/01-linux.html",
+      "dependencies": []
+    },
+    "96-计算机原理/01-操作系统/02-linux线程间同步的方式.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 1439,
+      "exportedPath": "96-计算机原理/01-操作系统/02-linux线程间同步的方式.html",
+      "dependencies": []
+    },
+    "96-计算机原理/01-操作系统/03-linux常用命令.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 8788,
+      "exportedPath": "96-计算机原理/01-操作系统/03-linux常用命令.html",
+      "dependencies": []
+    },
+    "96-计算机原理/01-操作系统/04-常用脚本.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 918,
+      "exportedPath": "96-计算机原理/01-操作系统/04-常用脚本.html",
+      "dependencies": []
+    },
+    "96-计算机原理/01-操作系统/05-shell-basic.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 960,
+      "exportedPath": "96-计算机原理/01-操作系统/05-shell-basic.html",
+      "dependencies": [
+        "96-计算机原理/01-操作系统/assets/ls-l一图解释.png"
+      ]
+    },
+    "97-运维/00-一些概念/assets/什么是制品.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 161152,
+      "exportedPath": "97-运维/00-一些概念/assets/什么是制品.png",
+      "dependencies": []
+    },
+    "97-运维/00-一些概念/assets/制品在流程中.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 346090,
+      "exportedPath": "97-运维/00-一些概念/assets/制品在流程中.png",
+      "dependencies": []
+    },
+    "97-运维/00-一些概念/01-制品.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 748,
+      "exportedPath": "97-运维/00-一些概念/01-制品.html",
+      "dependencies": [
+        "97-运维/00-一些概念/assets/什么是制品.png",
+        "97-运维/00-一些概念/assets/制品在流程中.png"
+      ]
+    },
+    "97-运维/01-容器化/01-docker/assets/Pasted image 20230226222414.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 45596,
+      "exportedPath": "97-运维/01-容器化/01-docker/assets/pasted-image-20230226222414.png",
+      "dependencies": []
+    },
+    "97-运维/01-容器化/01-docker/assets/Pasted image 20230226222446.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 45596,
+      "exportedPath": "97-运维/01-容器化/01-docker/assets/pasted-image-20230226222446.png",
+      "dependencies": []
+    },
+    "97-运维/01-容器化/01-docker/01-docker入门.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 6734,
+      "exportedPath": "97-运维/01-容器化/01-docker/01-docker入门.html",
+      "dependencies": [
+        "97-运维/01-容器化/01-docker/assets/pasted-image-20230226222414.png"
+      ]
+    },
+    "97-运维/02-监控/01-Prometheus(普罗米修斯).md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 9008,
+      "exportedPath": "97-运维/02-监控/01-prometheus(普罗米修斯).html",
+      "dependencies": []
+    },
+    "97-运维/assets/ansible中的概念映射到CICD流程中.svg": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 226967,
+      "exportedPath": "97-运维/assets/ansible中的概念映射到cicd流程中.svg",
+      "dependencies": []
+    },
+    "97-运维/99-ansible.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 3605,
+      "exportedPath": "97-运维/99-ansible.html",
+      "dependencies": [
+        "97-运维/assets/ansible中的概念映射到cicd流程中.svg"
+      ]
+    },
+    "98-面试技巧/01-面试记录.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 21541,
+      "exportedPath": "98-面试技巧/01-面试记录.html",
+      "dependencies": []
+    },
+    "98-面试技巧/02-介绍项目.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 696,
+      "exportedPath": "98-面试技巧/02-介绍项目.html",
+      "dependencies": []
+    },
+    "98-面试技巧/面试技巧.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 299,
+      "exportedPath": "98-面试技巧/面试技巧.html",
+      "dependencies": []
+    },
+    "99-个人博客/01-hexo/hexo.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 466,
+      "exportedPath": "99-个人博客/01-hexo/hexo.html",
+      "dependencies": []
+    },
+    "AllBooks.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 0,
+      "exportedPath": "allbooks.html",
+      "dependencies": []
+    },
+    "README.md": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 123,
+      "exportedPath": "readme.html",
+      "dependencies": []
+    },
+    "00-obsidian的使用/assets/pasted-image-20221226135034.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 152849,
+      "exportedPath": "00-obsidian的使用/assets/pasted-image-20221226135034.png",
+      "dependencies": []
+    },
+    "00-obsidian的使用/assets/use-wikilink.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 71365,
+      "exportedPath": "00-obsidian的使用/assets/use-wikilink.png",
+      "dependencies": []
+    },
+    "00-obsidian的使用/assets/pasted-image-20221228165318.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 45738,
+      "exportedPath": "00-obsidian的使用/assets/pasted-image-20221228165318.png",
+      "dependencies": []
+    },
+    "00-obsidian的使用/assets/pasted-image-20240603093855.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 45400,
+      "exportedPath": "00-obsidian的使用/assets/pasted-image-20240603093855.png",
+      "dependencies": []
+    },
+    "00-obsidian的使用/assets/pasted-image-20240604174419.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 27540,
+      "exportedPath": "00-obsidian的使用/assets/pasted-image-20240604174419.png",
+      "dependencies": []
+    },
+    "00-obsidian的使用/assets/pasted-image-20240605095749.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 85807,
+      "exportedPath": "00-obsidian的使用/assets/pasted-image-20240605095749.png",
+      "dependencies": []
+    },
+    "00-obsidian的使用/assets/pasted-image-20240605100158.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 39519,
+      "exportedPath": "00-obsidian的使用/assets/pasted-image-20240605100158.png",
+      "dependencies": []
+    },
+    "02-编程语言/01-java/01-集合/assets/hashmap的put操作流程图.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 132067,
+      "exportedPath": "02-编程语言/01-java/01-集合/assets/hashmap的put操作流程图.png",
+      "dependencies": []
+    },
+    "02-编程语言/01-java/02-多线程/assets/线程状态图.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 81174,
+      "exportedPath": "02-编程语言/01-java/02-多线程/assets/线程状态图.png",
+      "dependencies": []
+    },
+    "02-编程语言/01-java/02-多线程/assets/线程状态图2.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 230503,
+      "exportedPath": "02-编程语言/01-java/02-多线程/assets/线程状态图2.png",
+      "dependencies": []
+    },
+    "02-编程语言/01-java/02-多线程/assets/wait,notify原理图.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 123282,
+      "exportedPath": "02-编程语言/01-java/02-多线程/assets/wait,notify原理图.png",
+      "dependencies": []
+    },
+    "02-编程语言/01-java/02-多线程/assets/常见的等待队列.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 347548,
+      "exportedPath": "02-编程语言/01-java/02-多线程/assets/常见的等待队列.png",
+      "dependencies": []
+    },
+    "02-编程语言/01-java/02-多线程/assets/线程池参数设置的合理性.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 182998,
+      "exportedPath": "02-编程语言/01-java/02-多线程/assets/线程池参数设置的合理性.png",
+      "dependencies": []
+    },
+    "02-编程语言/01-java/02-多线程/assets/动态化线程池整体设计.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 42552,
+      "exportedPath": "02-编程语言/01-java/02-多线程/assets/动态化线程池整体设计.png",
+      "dependencies": []
+    },
+    "02-编程语言/01-java/02-多线程/assets/动态化线程池功能架构.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 95540,
+      "exportedPath": "02-编程语言/01-java/02-多线程/assets/动态化线程池功能架构.png",
+      "dependencies": []
+    },
+    "02-编程语言/01-java/02-多线程/assets/线程池参数动态化.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 79327,
+      "exportedPath": "02-编程语言/01-java/02-多线程/assets/线程池参数动态化.png",
+      "dependencies": []
+    },
+    "02-编程语言/01-java/02-多线程/assets/pasted-image-20230306161651.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 19230,
+      "exportedPath": "02-编程语言/01-java/02-多线程/assets/pasted-image-20230306161651.png",
+      "dependencies": []
+    },
+    "02-编程语言/01-java/02-多线程/assets/pasted-image-20230306161707.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 42783,
+      "exportedPath": "02-编程语言/01-java/02-多线程/assets/pasted-image-20230306161707.png",
+      "dependencies": []
+    },
+    "02-编程语言/01-java/02-多线程/assets/jmm抽象示意图.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 267246,
+      "exportedPath": "02-编程语言/01-java/02-多线程/assets/jmm抽象示意图.png",
+      "dependencies": []
+    },
+    "02-编程语言/01-java/03-spring/assets/bean的生命周期.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 925007,
+      "exportedPath": "02-编程语言/01-java/03-spring/assets/bean的生命周期.png",
+      "dependencies": []
+    },
+    "02-编程语言/01-java/03-spring/assets/循环依赖-ab.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 126235,
+      "exportedPath": "02-编程语言/01-java/03-spring/assets/循环依赖-ab.png",
+      "dependencies": []
+    },
+    "02-编程语言/01-java/03-spring/assets/spring-事务.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 95252,
+      "exportedPath": "02-编程语言/01-java/03-spring/assets/spring-事务.png",
+      "dependencies": []
+    },
+    "02-编程语言/01-java/03-spring/assets/spring事务失效.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 175806,
+      "exportedPath": "02-编程语言/01-java/03-spring/assets/spring事务失效.png",
+      "dependencies": []
+    },
+    "02-编程语言/01-java/03-spring/assets/pasted-image-20230301153532.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 75895,
+      "exportedPath": "02-编程语言/01-java/03-spring/assets/pasted-image-20230301153532.png",
+      "dependencies": []
+    },
+    "02-编程语言/01-java/03-spring/assets/pasted-image-20230305192254.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 130823,
+      "exportedPath": "02-编程语言/01-java/03-spring/assets/pasted-image-20230305192254.png",
+      "dependencies": []
+    },
+    "02-编程语言/01-java/03-spring/assets/pasted-image-20230305192328.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 103814,
+      "exportedPath": "02-编程语言/01-java/03-spring/assets/pasted-image-20230305192328.png",
+      "dependencies": []
+    },
+    "02-编程语言/01-java/05-mybatis/assets/mybatis符号区别.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 209673,
+      "exportedPath": "02-编程语言/01-java/05-mybatis/assets/mybatis符号区别.png",
+      "dependencies": []
+    },
+    "02-编程语言/01-java/06-jvm/assets/类加载过程.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 15069,
+      "exportedPath": "02-编程语言/01-java/06-jvm/assets/类加载过程.png",
+      "dependencies": []
+    },
+    "02-编程语言/01-java/06-jvm/assets/1722924406-738ffdb470d9c0e5edb8e2c7e20a60be.webp": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 65104,
+      "exportedPath": "02-编程语言/01-java/06-jvm/assets/1722924406-738ffdb470d9c0e5edb8e2c7e20a60be.webp",
+      "dependencies": []
+    },
+    "02-编程语言/01-java/99-实践/assets/pasted-image-20231128173911.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 66561,
+      "exportedPath": "02-编程语言/01-java/99-实践/assets/pasted-image-20231128173911.png",
+      "dependencies": []
+    },
+    "04-数据库/01-mysql/assets/b树.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 43072,
+      "exportedPath": "04-数据库/01-mysql/assets/b树.png",
+      "dependencies": []
+    },
+    "04-数据库/01-mysql/assets/pasted-image-20230305192751.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 114068,
+      "exportedPath": "04-数据库/01-mysql/assets/pasted-image-20230305192751.png",
+      "dependencies": []
+    },
+    "04-数据库/01-mysql/assets/pasted-image-20230305192814.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 129711,
+      "exportedPath": "04-数据库/01-mysql/assets/pasted-image-20230305192814.png",
+      "dependencies": []
+    },
+    "04-数据库/01-mysql/assets/pasted-image-20230305192831.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 117657,
+      "exportedPath": "04-数据库/01-mysql/assets/pasted-image-20230305192831.png",
+      "dependencies": []
+    },
+    "04-数据库/01-mysql/assets/pasted-image-20230307181039.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 30271,
+      "exportedPath": "04-数据库/01-mysql/assets/pasted-image-20230307181039.png",
+      "dependencies": []
+    },
+    "04-数据库/01-mysql/assets/pasted-image-20230308081514.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 23750,
+      "exportedPath": "04-数据库/01-mysql/assets/pasted-image-20230308081514.png",
+      "dependencies": []
+    },
+    "04-数据库/01-mysql/assets/pasted-image-20230308081545.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 10506,
+      "exportedPath": "04-数据库/01-mysql/assets/pasted-image-20230308081545.png",
+      "dependencies": []
+    },
+    "05-中间件/02-mq/01-rocketmq/assets/延迟消息在broker中流转图.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 45405,
+      "exportedPath": "05-中间件/02-mq/01-rocketmq/assets/延迟消息在broker中流转图.png",
+      "dependencies": []
+    },
+    "05-中间件/03-redis/assets/redisson底层原理图.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 374100,
+      "exportedPath": "05-中间件/03-redis/assets/redisson底层原理图.png",
+      "dependencies": []
+    },
+    "05-中间件/03-redis/assets/redlock,集群部署示意图.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 254046,
+      "exportedPath": "05-中间件/03-redis/assets/redlock,集群部署示意图.png",
+      "dependencies": []
+    },
+    "93-gpt/assets/autogpt区别.svg": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 157192,
+      "exportedPath": "93-gpt/assets/autogpt区别.svg",
+      "dependencies": []
+    },
+    "93-gpt/assets/autogptstar.svg": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 112351,
+      "exportedPath": "93-gpt/assets/autogptstar.svg",
+      "dependencies": []
+    },
+    "93-gpt/assets/toprichbychatgpt.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 24925,
+      "exportedPath": "93-gpt/assets/toprichbychatgpt.png",
+      "dependencies": []
+    },
+    "93-gpt/assets/toprichbyautogpt.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 33308,
+      "exportedPath": "93-gpt/assets/toprichbyautogpt.png",
+      "dependencies": []
+    },
+    "93-gpt/assets/autogpt总结.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 280799,
+      "exportedPath": "93-gpt/assets/autogpt总结.png",
+      "dependencies": []
+    },
+    "97-运维/01-容器化/01-docker/assets/pasted-image-20230226222414.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 45596,
+      "exportedPath": "97-运维/01-容器化/01-docker/assets/pasted-image-20230226222414.png",
+      "dependencies": []
+    },
+    "97-运维/assets/ansible中的概念映射到cicd流程中.svg": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 226967,
+      "exportedPath": "97-运维/assets/ansible中的概念映射到cicd流程中.svg",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/6155340132a851f6089e.svg": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 315,
+      "exportedPath": "lib/media/6155340132a851f6089e.svg",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_zero.woff": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 1368,
+      "exportedPath": "lib/fonts/mathjax_zero.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-regular.woff": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 34160,
+      "exportedPath": "lib/fonts/mathjax_main-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-bold.woff": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 34464,
+      "exportedPath": "lib/fonts/mathjax_main-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-italic.woff": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 19360,
+      "exportedPath": "lib/fonts/mathjax_math-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-italic.woff": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 20832,
+      "exportedPath": "lib/fonts/mathjax_main-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-bolditalic.woff": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 19776,
+      "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size1-regular.woff": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 5792,
+      "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size2-regular.woff": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 5464,
+      "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size3-regular.woff": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 3244,
+      "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size4-regular.woff": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 5148,
+      "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_ams-regular.woff": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 40808,
+      "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-regular.woff": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 9600,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-bold.woff": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 9908,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-regular.woff": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 21480,
+      "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-bold.woff": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 22340,
+      "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-regular.woff": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 12660,
+      "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-bold.woff": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 15944,
+      "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-italic.woff": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 14628,
+      "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_script-regular.woff": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 11852,
+      "exportedPath": "lib/fonts/mathjax_script-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_typewriter-regular.woff": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 17604,
+      "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-regular.woff": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 1136,
+      "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-bold.woff": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 1116,
+      "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 366156,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 6440,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 137406,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/theme.css": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 200735,
+      "exportedPath": "lib/styles/theme.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 509,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1741337396756,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    }
+  }
+}
